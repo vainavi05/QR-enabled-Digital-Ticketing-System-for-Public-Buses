@@ -1,0 +1,624 @@
+sno,route_id,stop_id,stop_name
+0,L1,1,Ramlal Bazar (Haltu)
+1,L1,2,B.B.D. Bag
+2,L1,3,Garfa Rd.
+3,L1,4,Haltu Main Rd.
+4,L1,5,Kasba Main Rd.
+5,L1,6,Rash Behari Avenue
+6,L1,7,Sarat Bose Rd.
+7,L1,8,Hazra Rd.
+8,L1,9,Harish Mukherjee Rd.
+9,L1,10,Acharya J.C. Bose Rd.
+10,L1,11,Chowringee Rd.
+11,L1,12,Esplanade
+12,2,1,Rabindra Sadan
+13,2,2,Paikpara
+14,2,3,Govt. Place East
+15,2,4,Old Court House St.
+16,2,5,Lal Bazar St.
+17,2,6,B.B. Ganguly St.
+18,2,7,College St.
+19,2,8,Lenin Sarani
+20,2,9,Rafi Ahmed Kidwai Rd.
+21,2,10,S.N. Banerjee Rd.
+22,2,11,Nirmal Chandra St.
+23,2,12,Bidhan Sarani
+24,2,13,Shyambazar
+25,2,14,R.G. Kar Rd.
+26,2,15,Belgachia Rd.
+27,2,16,Indra Biswas Rd.
+28,2,17,Raja Manindra Road
+29,2/1,1,Ballygunge Stn.
+30,2/1,2,Esplanade
+31,2/1,3,Ekdalia Rd.
+32,2/1,4,Rash Behari Avenue
+33,2/1,5,Sarat Bose Rd.
+34,2/1,6,A.J.C. Bose Rd.
+35,2/1,7,Chowringhee (B.B.D. Bag)
+36,2B,1,Ballygunge Stn.
+37,2B,2,Bagbazar
+38,2B,3,Shyambazar
+39,2B,4,Bhupen Bose Avenue
+40,2B,5,Girish Avenue
+41,2B,6,B.B.D. Bag (During Office hours)
+42,3,1,Bagbazar
+43,3,2,Kidderpur
+44,3,3,Acharya Prafulla Ch. Rd.
+45,3,4,Maniktala Bazar
+46,3,5,Rajabazar
+47,3,6,Sealdah Stn.
+48,3,7,Maulali
+49,3,8,S.N. Banerjee Rd.
+50,3,9,Lenin Sarani
+51,3,10,Chowringhee Rd.
+52,3,11,Ashutosh Mukherjee Rd.
+53,3,12,Hazra Rd. (Kalighat)
+54,3,13,Judge's Court Rd.
+55,3,14,Diamond Harbour Road
+56,3A,1,Sealdah
+57,3A,2,Thakurpukur
+58,3A,3,Mahatma Gandhi Rd.
+59,3A,4,Raja Rammohan Sarani
+60,3A,5,B.B. Ganguly St.
+61,3A,6,B.B.D. Bag
+62,3A,7,Old Court House St.
+63,3A,8,Strand Rd.
+64,3A,9,Kidderpore
+65,3A,10,Mominpur
+66,3A,11,Behala
+67,3A,12,Sakherbazar
+68,3A,13,Diamond Harbour Road
+69,3A/1,1,Kankurgachi (C.I.T. Scheme)
+70,3A/1,2,Behala
+71,3A/1,3,Narkeldanga
+72,3A/1,4,Dr. M.N. Chatterjee Sarani
+73,3A/1,5,Raja Bazar
+74,3A/1,6,A.P.C. Rd.
+75,3A/1,7,Sealdah
+76,3A/1,8,M.G. Rd.
+77,3A/1,9,Raja Rammohan Sarani
+78,3A/1,10,B.B. Ganguly St.
+79,3A/1,11,B.B.D. Bag
+80,3A/1,12,Old Court House St.
+81,3A/1,13,Esplanade
+82,3A/1,14,Strand Rd.
+83,3A/1,15,Napier Rd.
+84,3A/1,16,Kidderpore
+85,3A/1,17,Mominpur
+86,L3E,1,Esplanade
+87,L3E,2,Amtala
+88,L3E,3,Dufferin Rd.
+89,L3E,4,Casurina Avenue
+90,L3E,5,Kidderpur Rd.
+91,L3E,6,D.H. Rd.
+92,L3E,7,Thakurpukur 3A Bus Stand
+93,L3E,8,Pailan
+94,L3E,9,Bhasa
+95,L3E,10,Bakrahati
+96,L3E,11,Bishnupur
+97,4A,1,Tollygunge (Kundghat)
+98,4A,2,Esplanade
+99,4A,3,Chandi Ghosh Rd.
+100,4A,4,Baburam Ghosh Rd.
+101,4A,5,Deshapran Sasmal Rd.
+102,4A,6,S.P. Mukherjee Rd.
+sno,route_id,stop_id,stop_name
+103,4B,1,Esplanade
+104,4B,2,Baranagore
+105,4B,3,Bentinck St.
+106,4B,4,Lal Bazar St.
+107,4B,5,Chittaranjan Avenue
+108,4B,6,Vivekananda Rd.
+109,4B,7,Bagbazar
+110,4B,8,Cossipore Road
+111,4C,1,Haridevpur
+112,4C,2,B.B.D. Bag
+113,4C,3,Karunamoyee
+114,4C,4,Siriti
+115,4C,5,Mahabirtala
+116,4C,6,Dipti Cinema Tollygunge
+117,4C,7,R.B. Avenue
+118,4C,8,Hazra Rd.
+119,4C,9,Elgin Rd.
+120,4C,10,Park St.
+121,4C,11,Esplanade
+122,5,1,Garia
+123,5,2,Howrah Stn.
+124,5,3,Raja Subodh Mallick Rd.
+125,5,4,Jadavpur
+126,5,5,Dhakuria
+127,5,6,Gariahat Rd.
+128,5,7,Rash Behari Avenue
+129,5,8,Austosh Mukherjee Rd.
+130,5,9,Chowringhee Rd.
+131,5,10,Esplanade
+132,5,11,Old Court House St.
+133,5,12,B.B.D. Bag
+134,5,13,Koilaghata St.
+135,5,14,Strand Road
+136,5 (Shuttle),1,Garia
+137,5 (Shuttle),2,Rashbehari
+138,5 (Shuttle),3,Tollygung Tram Depot
+139,5 (Shuttle),4,Esplanade
+140,6,1,Garia
+141,6,2,Howrah Stn.
+142,6,3,Baishnabghata
+143,6,4,Naktala
+144,6,5,Bansdroni
+145,6,6,Netaji Nagar
+146,6,7,Deshapran Sasmal Rd.
+147,6,8,S.P. Mukherjee Road
+148,6,9,Chowringhee Rd.
+149,6,10,Esplanade
+150,6,11,Old Court House St.
+151,6,12,B.B.D. Bag
+152,6,13,Brabourne Road
+153,6 (Shuttle),1,Garia
+154,6 (Shuttle),2,Rashbehari
+155,6 (Shuttle),3,Tollygung Tram Depot
+156,6 (Shuttle),4,Esplanade
+157,7,1,Hazra Park
+158,7,2,Sarsuna
+159,7,3,S.P. Mukherjee Rd.
+160,7,4,Deshapran Sasmal Rd.
+161,7,5,Tollygunge Cir. Rd.
+162,7,6,N.R. Sarkar Ave.
+163,7,7,D.H. Rd.
+164,7,8,Biren Roy Rd. (West)
+165,7,9,Sarsuna Main Road
+166,L7A,1,Sarsuna
+167,L7A,2,Howrah Stn.
+168,L7A,3,Sarsuna Main Rd.
+169,L7A,4,Biren Roy Rd.
+170,L7A,5,Diamond Harbour Rd.
+171,L7A,6,Kidderpore Bridge
+172,L7A,7,Pranabananda Sn.
+173,L7A,8,Duffrin Rd.
+174,L7A,9,Esplanade
+175,L7A,10,Rani Rashmoni Rd.
+176,L7A,11,Old Court House St.
+177,L7A,12,B.B.D. Bag
+178,L7A,13,Brabourne Road
+179,L7B,1,Shibrampur (Oxy-Town)
+180,L7B,2,Esplanade
+181,L7B,3,Biren Roy Road
+182,L7B,4,D.H. Road
+183,L7B,5,Judge Court Road
+184,L7B,6,Hazra Road
+185,L7B,7,Harish Mukherjee Road
+186,L7B,8,Chowringhee
+187,L7B,9,B.B.D. Bag
+188,8,1,Ramlal Bazar
+189,8,2,Howrah Stn.
+190,8,3,Kasba Rd.
+191,8,4,Rash Behari Avenue
+192,8,5,Gariahat Rd.
+193,8,6,Hazra Rd.
+194,8,7,Sarat Bose Rd.
+195,8,8,Acharya J.C. Bose Rd.
+196,8,9,Elliot Rd.
+197,8,10,Royd St.
+198,8,11,Rafi Ahmed Kidwai Rd.
+199,8,12,S.N. Banerjee Rd.
+200,8,13,Esplanade
+201,8,14,B.B.D. Bag
+202,8,15,Koilaghata St.
+203,8,16,Strand Road
+204,8B,1,Jadavpur
+205,8B,2,Howrah Stn.
+206,8B,3,Raja Subodh Mallick Rd.
+207,8B,4,Dhakuria
+208,8B,5,Gariahat Rd.
+209,8B,6,Rash Behari Avenue
+210,8B,7,Sarat Bose Rd.
+211,8B,8,Acharya J.C. Bose Rd.
+212,8B,9,Sealdah Fly Over
+213,8B,10,Acharya Prafulla Ch. Rd.
+214,8B,11,Maniktala Bazar
+215,8B,12,Vivekananda Rd.
+216,8B,13,Ganesh Talkies
+217,8B,14,Kali Krishna Tagore Street
+218,8B,15,Strand Road
+219,9,1,Ultadanga
+220,9,2,Rabindra Sadan
+221,9,3,Ultadanga Main Road
+222,9,4,Aurobindo Setu
+223,9,5,A.P.C. Road
+224,9,6,Chittaranjan Ave.
+225,9,7,Esplanade
+226,9,8,B.B. Ganguly St.
+
+sno,route_id,stop_id,stop_name
+0,9A,1,Sechbhavan
+1,9A,2,Sealdah
+2,9A,3,Bagmari
+3,9A,4,Maniktala
+4,9A,5,Rajabazar
+5,9B,1,Santoshpur
+6,9B,2,Hazra
+7,9B,3,E.M. Bypass
+8,9B,4,Bijon Setu
+9,9B,5,Rashbehari
+10,9B,6,Jadavpur (Rly.Stn)
+11,9B,7,Esplanade
+12,9B,8,Jadavpur Stn. Rd.
+13,9B,9,Raja Subodh Mullick Rd.
+14,9B,10,Dhakuria
+15,9B,11,Golpark
+16,9B,12,Southern Ave.
+17,9B,13,Sarat Bose Rd.
+18,9B,14,Jagadish Bose Rd.
+19,9B,15,Chowringhee Rd.
+20,9B,16,B.B.D. Bag (during office hours)
+21,L9,1,Golpark
+22,L9,2,Bagbazar
+23,L9,3,Southern Ave.
+24,L9,4,Sarat Bose Rd.
+25,L9,5,A.J.C. Bose Rd.
+26,L9,6,Chowringhee Rd.
+27,L9,7,Esplanade
+28,L9,8,C.R. Ave.
+29,L9,9,Two Buses (9 A.M. & 9:20 A.M.) leave Lake depot
+30,L9A,1,Rabindra Sadan
+31,L9A,2,Dunlop Bridge
+32,L9A,3,Esplanade
+33,L9A,4,C.R. Avenue
+34,L9A,5,A.P.C. Rd.
+35,L9A,6,Shyambazar
+36,L9A,7,B.T. Road
+37,9,1,Manicktala Junction
+38,9,2,Sechbhavan (Salt Lake)
+39,9,3,Manicktala Main Rd.
+40,9,4,Kankurgachi
+41,9,5,V.I.P. Rd.
+42,9,6,Nazrul Islam Sn.
+43,9,7,Labony
+44,9A,1,Santoshpur
+45,9A,2,Hazra Park
+46,9A,3,E.M. By Pass
+47,9A,4,Bijon Setu
+48,9A,5,Gariahat
+49,9A,6,Rash Behari Avenue
+50,10,1,Ballygunge Stn.
+51,10,2,Howrah Stn.
+52,10,3,Rash Behari Avenue
+53,10,4,Gariahat Rd.
+54,10,5,Syed Amir Ali Ave.
+55,10,6,Suhrwardy Ave.
+56,10,7,Dr. Sundari Mohan Ave.
+57,10,8,Acharya J.C. Bose Rd.
+58,10,9,Sealdah Fly Over
+59,10,10,Mahatma Gandhi Road
+60,11,1,Rathtala (Belgharia)
+61,11,2,Howrah Stn.
+62,11,3,B.T. Rd.
+63,11,4,Sinthi More
+64,11,5,Chiria More
+65,11,6,Hemanta Setu
+66,11,7,Shyambazar
+67,11,8,Acharya Profulla Ch. Rd.
+68,11,9,Sealdah
+69,11,10,Mahatma Gandhi Road
+70,11A,1,Dum Dum Stn.
+71,11A,2,Howrah Stn.
+72,11A,3,Dum Dum Stn.Rd.
+73,11A,4,B.T. Rd.
+74,11A,5,Shyambazar
+75,11A,6,Acharya Prafulla Ch. Rd.
+76,11A,7,Manicktala Bazar
+77,11A,8,Beadon St.
+78,11A,9,Rabindra Sarani
+79,11A,10,Ganesh Talkies
+80,11A,11,Kalikrishna Tagore St.
+81,11A,12,Strand Road
+82,12D,1,Howrah Stn.
+83,12D,2,Thakurpukur
+84,12D,3,Howrah Bridge
+85,12D,4,Strand Rd.
+86,12D,5,Koilaghat St.
+87,12D,6,B.B.D. Bag
+88,12D,7,Esplanade
+89,12D,8,Kidderpore Rd.
+90,12D,9,Diamond Harbour Rd.
+91,12D,10,Mominpur
+92,12D,11,Majherhat
+93,12D,12,Behala
+94,12D,13,Barisa Silpara (during office hours)
+95,L14A,1,Esplanade
+96,L14A,2,Vidyasagar Samity (Salt Lake)
+97,L14A,3,B.B.D. Bag
+98,L14A,4,Esplanade
+99,L14A,5,Lenin Sarani
+100,L14A,6,S.N. Banerjee Rd. (return journey)
+101,L14A,7,Nirmal Ch. St.
+102,L14A,8,College St.
+103,L14A,9,Bidhan Sarani
+104,L14A,10,Vivekananda Rd.
+105,L14A,11,Manicktala Bazar
+106,L14A,12,Manicktala Main Rd.
+107,L14A,13,Kankurgachi 3A Stand
+108,L14A,14,Durgapur Bridge Via-No.1 gate
+109,L14A,15,B.B. Ganguly Street (during office hours)
+
+sno,route_id,stop_id,stop_name
+0,L14B,1,Karunamayee Estate (Salt Lake)
+1,L14B,2,Pumping House
+2,L14B,3,P.N. Bank
+3,L14B,4,Gate No.1
+4,L14B,5,Ultadanga Main Rd.
+5,L14B,6,Aurobindo Setu
+6,L14B,7,Grey St.
+7,L14B,8,Extension Acharya P.C. Rd.
+8,L14B,9,Avedananda Rd.
+9,L14B,10,Bidhan Sarani
+10,L14B,11,College St.
+11,L14B,12,Nirmal Ch. St.
+12,L14B,13,S.N. Banerjee Rd.
+13,L14B,14,Lenin Sarani (return journey)
+14,L14B,15,B.B.D. Bag (during office hours via B.B. Ganguly St.)
+15,L14C,1,Bagbazar
+16,L14C,2,Salt Lake Depot
+17,L14C,3,A.P.C. Rd.
+18,L14C,4,Khanna Cinema
+19,L14C,5,Ultadanga Main Road
+20,L14C,6,Hud Co.
+21,L14C,7,P.N. Bank
+22,L14C,8,Avenue No.1
+23,L14C,9,Baisakhi
+24,L14C,10,Water Tank No.9
+25,L14C,11,Karunamayee
+26,15,1,Ultadanga Stn.
+27,15,2,Howrah Stn.
+28,15,3,Ultadanga Main Rd.
+29,15,4,Arabinda Setu
+30,15,5,Grey St.
+31,15,6,Extn.
+32,15,7,Arabinda Sarani
+33,15,8,Sovabazar
+34,15,9,B.K. Paul Avenue
+35,15,10,Ahiritola St.
+36,15,11,Nimtalla Ghat St.
+37,15,12,Strand Road
+38,15A,1,Chetla
+39,15A,2,B.B.D. Bag (morning & evening office hours)
+40,15A,3,Acharya J.C. Bose Rd.
+41,15A,4,S.N. Banerjee Rd.
+42,15A,5,Esplanade
+43,15A,6,Octerlony Rd.
+44,15A,7,Old Court House St.
+45,15A,8,Lalbazar St.
+46,15A,9,B.B. Ganguly St.
+47,15A,10,Sealdah Stn.
+48,15A,11,Acharya J.C. Bose Road
+49,16,1,Dhakuria
+50,16,2,Shibpur (Tram Depot)
+51,16,3,Gariahat Rd.
+52,16,4,Hazra Rd.
+53,16,5,Ritchie Rd.
+54,16,6,Promothesh Barua Sarani
+55,16,7,Acharya J.C. Bose Rd.
+56,16,8,Sealdah fly over
+57,16,9,Mahatma Gandhi Rd.
+58,16,10,Howrah Stn.
+59,16,11,Howrah Maidan
+60,16,12,G.T. Road (South)
+61,L19,1,Esplanade
+62,L19,2,Metiabruz
+63,L19,3,Dufferin Rd.
+64,L19,4,Pranabananda Sn.
+65,L19,5,Kidderpore Rd.
+66,L19,6,Cir. Garden Reach Rd.
+67,L19,7,Dumayun Ave.
+68,L19,8,B.N.R. Office
+69,L19,9,Cir. Garden Reach Rd.
+70,L19,10,Paharpur Rd.
+71,L19,11,Cir. Garden Reach Rd.
+72,L19,12,Akhra Rd.
+73,L19,13,Every alternate bus plies via Paharpur Road
+74,L20,1,Esplanade
+75,L20,2,Barrackpur (Court)
+76,L20,3,Chittaranjan Ave.
+77,L20,4,Jatindra Mohan Ave.
+78,L20,5,Bhupen Bose Ave.
+79,L20,6,Shyambazar
+80,L20,7,B.T. Road
+81,L20,8,Lalkuthi Junction
+82,L20A,1,Ultadanga
+83,L20A,2,Barasat
+84,L20A,3,Arabinda Setu
+85,L20A,4,A.P.C. Rd.
+86,L20A,5,B.T. Road
+87,L20A,6,Barrackpore Stn.
+88,L20A,7,Mohanpur
+89,L20A,8,Nilgunj Bazar
+90,L20A,9,Akrampur
+91,L20B,1,Esplanade
+92,L20B,2,Barasat
+93,L20B,3,Victoria House
+94,L20B,4,C.R. Ave.
+95,L20B,5,Bow Bazar
+96,L20B,6,Mahajati Sadan
+97,L20B,7,Beadon St.
+98,L20B,8,Grey St.
+99,L20B,9,Shyambazar
+100,L20B,10,R.G. Kar Medical College
+101,L20B,11,Belgachia
+102,L20B,12,Paikpara
+103,L20B,13,Dutta Bagan
+104,L20B,14,Patipukur
+105,L20B,15,Lake Town
+106,L20B,16,Bangur Ave.
+107,L20B,17,Nager Bazar
+108,L20B,18,Clive Colony
+109,L20B,19,Gora Bazar
+110,L20B,20,H.M.V. Gate
+111,L20B,21,Airport Gate No. 1,2,3
+112,L20B,22,Birati
+113,L20B,23,Michael Nagar
+114,L20B,24,B.T. College
+115,L20B,25,Doltala
+116,L20B,26,Madhyamgram
+117,L20B,27,Fourpoint Crossing
+118,L20B,28,Dak Bangalow
+119,L20B,29,Dakshinpara
+120,L20B,30,Sethpukur
+121,L20B,31,Colony More (Nabapalli)
+122,L20B,32,Haritala
+123,L22,1,Sibrampur Oxytown
+124,L22,2,Esplanade
+125,L22,3,Behala Sakherbazar
+126,L22,4,Diamond Harbour Rd.
+127,L22,5,Taratala Rd.
+128,L22,6,Brace Bridge
+129,L22,7,Hide Rd
+130,L22,8,Garden Reach Rd.
+131,L22,9,Babu Bazar
+132,L22,10,Kidderpore Bridge
+133,L22,11,Kidderpore Rd.
+134,L22,12,Strand Rd.
+135,L30B,1,Esplanade
+136,L30B,2,Dum Dum Airport
+137,L30B,3,Chittaranjan Ave.
+138,L30B,4,J.M. Ave.
+139,L30B,5,Bhupen Bose Ave.
+140,L30B,6,Shyambazar
+141,L30B,7,Hemanta Setu
+142,L30B,8,B.T. Rd.
+143,L30B,9,Chiria More
+144,L30B,10,Dum Dum Rd.
+145,L30B,11,Nager Bazar
+146,L30B,12,Jessore Road
+
+sno,route_id,stop_id,stop_name
+0,L31,1,Esplanade
+1,L31,2,B.B.D. Bag
+2,L31,3,Brabourne Rd.
+3,L31,4,Howrah Stn.
+4,L31,5,Dobson Rd.
+5,L31,6,Abani Dutta Rd.
+6,L31,7,G.T. Rd.
+7,L31,8,Netaji Subhas Avenue
+8,33,1,Chetla
+9,33,2,Alipur Rd.
+10,33,3,Judges Court Rd.
+11,33,4,Kalighat Bridge
+12,33,5,Hazra Rd.
+13,33,6,Bondel Rd.
+14,33,7,Rifle Range Rd.
+15,33,8,Dilkhusa St.
+16,33,9,Darga Rd.
+17,33,10,Sundari Mohan Ave.
+18,33,11,Acharya J.C. Bose Rd.
+19,33,12,Sealdah
+20,33A,1,Paikpara
+21,33A,2,Raja Manindra Rd.
+22,33A,3,Belgachia Rd.
+23,33A,4,R.G. Kar Rd.
+24,33A,5,Shyambazar
+25,33A,6,A.P.C. Rd.
+26,33A,7,Sealdah
+27,33A,8,A.J.C. Bose Rd.
+28,33A,9,Dr.Sundari Mohan Avenue
+29,34,1,Esplanade
+30,34,2,Lenin Sarani
+31,34,3,Nirmal Ch. St.
+32,34,4,College St.
+33,34,5,Old Court House St.
+34,34,6,B.B.D. Bag
+35,34,7,B.B. Ganguly St.
+36,34,8,Shyambazar
+37,34,9,B.T. Rd.
+38,34,10,Tobin Rd.
+39,34,11,Kashinath Dutta Rd.
+40,34,12,Gopal Lal Thakur Rd.
+41,34,13,Alam Bazar
+42,34,14,Desh Bandhu Rd.
+43,34,15,Surja Sen Rd.
+44,34,16,Balur Math
+45,35,1,Joramandir (Beleghata)
+46,35,2,Beliaghata Main Rd.
+47,35,3,Rashmoni Bazar
+48,35,4,Beleghata Road
+49,35A,1,Joramandir (Beleghata)
+50,35A,2,Beliaghata Main Rd.
+51,35A,3,Rashmoni Bazar
+52,35A,4,Beleghata Rd.
+53,35A,5,Sealdah Fly Over
+54,35A,6,M.G. Rd.
+55,35A,7,Raja Ram Mohan Roy Sarani
+56,35A,8,B.B. Ganguly St.
+57,35A,9,Mission Row Extn.
+58,35A,10,B.B.D. Bag
+59,35A,11,Koilaghat St.
+60,35A,12,Strand Road
+61,35B,1,Beleghata (C.I.T. Building)
+62,35B,2,C.I.T. Rd.
+63,35B,3,Beleghata Main Rd.
+64,35B,4,Beleghata Road
+65,35C,1,Salt Lake
+66,35C,2,Philips Complex
+67,35C,3,Mahish Bathan
+68,35C,4,C.A. Island
+69,35C,5,Vidyasagar
+70,35C,6,Labony
+71,35C,7,Purbachal
+72,35C,8,Tank No.13
+73,35C,9,Broadway
+74,35C,10,KBKC Block
+75,35C,11,C.I.T. E.M By pass crossing
+76,35C,12,Joramandir
+77,35C,13,Sealdah
+78,35C,14,Bowbazar
+79,35C,15,B.B.D. Bag
+80,35C,16,Hare St.
+81,35C,17,Strand Road
+82,36,1,Sealdah
+83,36,2,Subhas Sarovor
+84,36,3,Acharya Prafulla Ch. Rd.
+85,36,4,Raja Bazar
+86,36,5,Gas St.
+87,36,6,Narikeldanga Main Rd.
+88,36,7,C.I.T. Rd.
+89,36,8,Nandi House
+90,36,9,Phulbagan
+91,36,10,B.B.D. Bag
+92,36,11,Narikeldanga Main Rd.
+93,36,12,A.P.C. Rd.
+94,36,13,Surya Sen St.
+95,36,14,M.G. Rd.
+96,36,15,Sealdah
+97,36,16,Raja Rammohan Sarani
+98,36,17,B.B. Ganguly St.
+99,36,18,Chittaranjan Ave.
+100,36,19,R.N. Mukherjee Road
+101,38,1,Sealdah Stn.
+102,38,2,Matpukur (Dhapa)
+103,38,3,Beleghata Rd.
+104,38,4,Munshi Bazar
+105,38,5,Palmer Bazar
+106,38,6,Radhanath Chowdhury Rd.
+107,38,7,Tangra Rd.
+108,38,8,Huges Road
+109,38,9,Debendra De Road
+110,L38A,1,Sealdah
+111,L38A,2,Ghatakpukur
+112,L38B,1,Salt Lake Depot
+113,L38B,2,Karunamoyee
+114,L38B,3,Sechbhaban
+115,L38B,4,Bikash Bhaban
+116,L38B,5,Purta Bhaban
+117,L38B,6,CRP Camps
+118,L38B,7,Tank No.14
+119,L38B,8,P.N. Bank
+120,L38B,9,Ultadanga
+121,L38B,10,Howrah Stn.
+122,L91B,1,Shyambazar (Shyam Park)
+123,L91B,2,Rajarhat
+124,L91B,3,Raja Dinendra St.
+125,L91B,4,Aurobinda Sethu
+126,L91B,5,Ultadanga
+127,L91B,6,V.I.P. Rd.
+128,L91B,7,Airport Gate No.1
+129,L91B,8,Kaikhali
+130,L91B,9,Chiriamore
+131,L91B,10,Narayanpur Bortala

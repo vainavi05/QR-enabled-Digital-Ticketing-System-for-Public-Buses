@@ -1,0 +1,291 @@
+sno,route_id,stop_id,stop_name
+0,13,1,Shivajinagara Bus Station
+1,13,2,Indian Express
+2,13,3,M.G Statue (Chinnaswamy Stadium)
+3,13,4,Museum
+4,13,5,St. Joseph Boys High School Malya Hospital
+5,13,6,Richmond Circle
+6,13,7,K.H. Road
+7,13,8,Shanthinagara Bus Station
+8,13,9,Hop Coms / Lalbagh
+9,13,10,Mallige Hospital
+10,13,11,Siddapura
+11,13,12,Ashoka Pillar
+12,13,13,Rani Sarala Devi College
+13,13,14,Jayanagara 3rd Block
+14,13,15,Jayanagara 4th Block
+15,13,16,Jayanagara T.T.M.C.
+16,13,17,Jayanagara 4th Block
+17,13,18,Jayanagara Telephone Exchange
+18,13,19,38th Cross Jayanagara
+19,13,20,Jayanagara 40th Cross
+20,13,21,Sangam Circle
+21,13,22,Banashankari Bus Station
+
+sno,route_id,stop_id,stop_name
+0,18,1,Kempegowda Bus Station
+1,18,2,Maharani College
+2,18,3,K.R. Circle
+3,18,4,St Marthas Hospital Corporation
+4,18,5,Corporation
+5,18,6,Poornima Talkies
+6,18,7,Passport Office Lalbagh Road
+7,18,8,Lalbagh Main Gate
+8,18,9,Lalbagh West Gate
+9,18,10,R.V. Teachers College
+10,18,11,Ashoka Pillar
+11,18,12,Rani Sarala Devi College
+12,18,13,Jayanagara 3rd Block
+13,18,14,Jayanagara 4th Block
+14,18,15,Jayanagara Church
+15,18,16,Jyn 4th T Blk. 18th Mn.
+16,18,17,4th T Block Jayanagara
+17,18,18,9th Block Jayanagara (40th Cross)
+
+sno,route_id,stop_id,stop_name
+0,25A,1,Kempegowda Bus Station
+1,25A,2,Maharani College
+2,25A,3,K.R. Circle
+3,25A,4,St Marthas Hospital Corporation
+4,25A,5,Corporation
+5,25A,6,Poornima Talkies
+6,25A,7,Mtr
+7,25A,8,Passport Office Lalbagh Road
+8,25A,9,Lalbagh Main Gate
+9,25A,10,Lalbagh West Gate
+10,25A,11,R.V. Teachers College
+11,25A,12,Ashoka Pillar
+12,25A,13,Rani Sarala Devi College
+13,25A,14,Jayanagara 3rd Block
+14,25A,15,Jayanagara 4th Block
+15,25A,16,Jayanagara Church
+16,25A,17,Sanjay Gandhi Hospital
+17,25A,18,Carmel Convent Jayanagara
+18,25A,19,Jayanagara Pump House
+19,25A,20,Jayanagar East
+20,25A,21,M.I.C.O. Layout
+21,25A,22,B.T.M. Layout Water Tank
+22,25A,23,16th Main B.T.M. Layout
+23,25A,24,Kuvempunagara (B.T.M. Layout)
+
+sno,route_id,stop_id,stop_name
+0,45D,1,Kempegowda Bus Station
+1,45D,2,Maharani College
+2,45D,3,K.R. Circle
+3,45D,4,St Marthas Hospital Corporation
+4,45D,5,Corporation
+5,45D,6,Town Hall
+6,45D,7,K.R. Market
+7,45D,8,K.R. Market (Kalasipalya)
+8,45D,9,Makkala Koota
+9,45D,10,Chamarajapet
+10,45D,11,Bengaluru High School
+11,45D,12,Ramakrishna Ashrama
+12,45D,13,Hanumanthanagara Ward Office
+13,45D,14,Cs-Hanumanthanagara Canara Bank
+14,45D,15,Subramanya Swamy Temple
+15,45D,16,Nirmala Store
+16,45D,17,Srinivasa Nagara
+17,45D,18,Bank Colony
+18,45D,19,Seetha Circle
+19,45D,20,Hoskerehalli
+20,45D,21,Hosakerehalli Junction
+21,45D,22,Janatha Bazar Banashankari
+22,45D,23,Janatha Bazar Ittamadu Cross
+23,45D,24,Srinivasa Kalyana Mantapa
+24,45D,25,Ittamadu
+25,45D,26,S.L.V. Bakery
+26,45D,27,V.B. Bakery Ittamadu
+27,45D,28,A.G.S. Layout Cross Arehalli
+28,45D,29,A.G.S. Layout Arehalli
+
+sno,route_id,stop_id,stop_name
+0,61,1,Kempegowda Bus Station
+1,61,2,Okalipura
+2,61,3,Minerva Mill
+3,61,4,5th Cross Magadi Road
+4,61,5,10th Cross Magadi Road
+5,61,6,Prasanna Theatre
+6,61,7,Magadi Road Toll Gate
+7,61,8,Manuvana
+8,61,9,Vijayanagara Vijaya Bank
+9,61,10,Vijayanagara
+10,61,11,Maruthi Mandira
+11,61,12,Vijayanagara Bus Station
+
+sno,route_id,stop_id,stop_name
+0,63,1,Shivajinagara Bus Station
+1,63,2,Raj Bhavan
+2,63,3,R.C.College
+3,63,4,Shivananda Stores Circle
+4,63,5,Sheshadripuram College
+5,63,6,Central (Towards K.B.S.Majestic)
+6,63,7,Malleshwaram Circle
+7,63,8,Devaiah Park
+8,63,9,Harishchandra Ghat
+9,63,10,Mariyappanapalya
+10,63,11,2nd Block Rajajinagara
+11,63,12,Basaveshwara College
+12,63,13,E.S.I.Hospital Rajajinagara
+13,63,14,Old Police Station Rajajinagara
+14,63,15,Rajajinagara Rama Temple
+15,63,16,Bashyam Circle
+16,63,17,6th Block Rajajinagara
+17,63,18,Prasanna Theatre
+18,63,19,Magadi Road Toll Gate
+19,63,20,Vijayanagara Vijaya Bank
+20,63,21,Vijayanagara
+21,63,22,Maruthi Mandira
+22,63,23,Vijayanagara Bus Station
+23,63,24,Attiguppe
+24,63,25,B.C.C.Layout
+
+sno,route_id,stop_id,stop_name
+0,63,1,Malleshwaram Bus Stand
+1,63,2,13th Cross Malleshwaram
+2,63,3,8th Cross Malleshwaram
+3,63,4,Malleshwaram Circle
+4,63,5,Devaiah Park
+5,63,6,Harishchandra Ghat
+6,63,7,Mariyappanapalya
+7,63,8,2nd Block Rajajinagara
+8,63,9,Basaveshwara College
+9,63,10,E.S.I.Hospital Rajajinagara
+10,63,11,Old Police Station Rajajinagara
+11,63,12,Rajajinagara Rama Temple
+12,63,13,Bashyam Circle
+13,63,14,6th Block Rajajinagara
+14,63,15,Prasanna Theatre
+15,63,16,Magadi Road Toll Gate
+16,63,17,Vijayanagara Vijaya Bank
+17,63,18,Vijayanagara
+18,63,19,Maruthi Mandira
+19,63,20,Hampi Nagara Post Office
+20,63,21,Hampinagara 7th Main
+21,63,22,Hampinagara R.P.C.Layout
+
+sno,route_id,stop_id,stop_name
+0,75B,1,Malleshwaram Bus Stand
+1,75B,2,13th Cross Malleshwaram
+2,75B,3,8th Cross Malleshwaram
+3,75B,4,Malleshwaram Circle
+4,75B,5,Devaiah Park
+5,75B,6,Harishchandra Ghat
+6,75B,7,Mariyappanapalya
+7,75B,8,2nd Block Rajajinagara
+8,75B,9,Basaveshwara College
+9,75B,10,E.S.I.Hospital Rajajinagara
+10,75B,11,Old Police Station Rajajinagara
+11,75B,12,Rajajinagara Rama Temple
+12,75B,13,Bashyam Circle
+13,75B,14,6th Block Rajajinagara
+14,75B,15,Prasanna Theatre
+15,75B,16,Magadi Road Toll Gate
+16,75B,17,Vijayanagara Vijaya Bank
+17,75B,18,Vijayanagara
+18,75B,19,Maruthi Mandira
+19,75B,20,Hampi Nagara Post Office
+20,75B,21,Hampinagara 7th Main
+21,75B,22,Hampinagara R.P.C.Layout
+
+sno,route_id,stop_id,stop_name
+0,90E,1,Yeshawanthapura Railway Station
+1,90E,2,Yeshawanthapura Market
+2,90E,3,Yeshwanthpura Circle
+3,90E,4,Yeshawanthapura
+4,90E,5,Mysore Lamps
+5,90E,6,Kirloskar Company
+6,90E,7,18th Cross Malleshwaram
+7,90E,8,Malleshwaram 8th Main
+8,90E,9,13th Cross Malleshwaram
+9,90E,10,13th Cross Malleshwaram
+10,90E,11,8th Cross Malleshwaram (8th Main Kbs)
+11,90E,12,Malleshwaram Circle
+12,90E,13,Malleshwaram Link Road
+13,90E,14,Sheshadripuram College
+14,90E,15,Central (Towards K.B.S.Majestic)
+15,90E,16,Kempegowda Bus Station
+
+sno,route_id,stop_id,stop_name
+0,94,1,Shivajinagara Bus Station
+1,94,2,Indian Express
+2,94,3,Cunningham Road
+3,94,4,The Embassy Cunningham Road
+4,94,5,Vasanthnagara (Ambedkar Bhavana)
+5,94,6,Cantonment Railway Station
+6,94,7,Jayamahal
+7,94,8,J.C.Nagara
+8,94,9,Munireddy Palya
+9,94,10,T.V Tower
+10,94,11,Mekhri Circle (C.V Raman Road)
+11,94,12,C.P.R.I.
+12,94,13,Tata Institute
+13,94,14,Yeshwanthpura Circle
+14,94,15,Yeshwanthapura T.T.M.C
+
+sno,route_id,stop_id,stop_name
+0,111,1,Kaval Byrasandra
+1,111,2,Manjushree Hospital
+2,111,3,P&T Quarters
+3,111,4,Sultanpalya Cross Pushpanjali Talkies
+4,111,5,Dinnur Main Road
+5,111,6,H.M.T.Layout (R.T.Nagara)
+6,111,7,R.T.Nagara Police Station
+7,111,8,R.T.Nagara Post Office
+8,111,9,Rahamathnagara
+9,111,10,Matadahalli
+10,111,11,C.Q.A.L.
+11,111,12,T.V Tower
+12,111,13,Munireddy Palya
+13,111,14,J.C.Nagara
+14,111,15,Jayamahal
+15,111,16,Cantonment Railway Station
+16,111,17,C.S.I.Hospital Queens Road
+17,111,18,Gold Star Hotel
+18,111,19,Indian Express
+19,111,20,G.P.O.
+20,111,21,Vidhana Soudha Karnataka High Court
+21,111,22,Vidhana Soudha Metro Station
+22,111,23,K.R.Circle
+23,111,24,St Marthas Hospital Corporation
+24,111,25,Corporation
+25,111,26,Town Hall
+26,111,27,Krishnarajendra Market
+27,111,28,K.R.Market
+
+sno,route_id,stop_id,stop_name
+0,211F,1,Kempegowda Bus Station/Majestic
+1,211F,2,Kaveri Bhavan
+2,211F,3,Corporation
+3,211F,4,Town Hall
+4,211F,5,K R Market
+5,211F,6,Kims Hospital/Makkalakoota
+6,211F,7,Mahila Seva Samaja/Sajjan Rao Circle
+7,211F,8,National College Basavanagudi
+8,211F,9,Basavanagudi Police Station
+9,211F,10,Gunasheela Hospital
+10,211F,11,South End Circle
+11,211F,12,Nanda Talkies
+12,211F,13,Jayanagar 6th Block
+13,211F,14,Yediyur
+14,211F,15,Deepak Nursing Home
+15,211F,16,Hunase Mara (Banashankari)
+16,211F,17,Banashankari
+17,211F,18,Sarakki Gate
+18,211F,19,Ilyasnagar
+19,211F,20,Jaraganahalli
+20,211F,21,Yalachenahalli
+21,211F,22,Metro Mall (Kanakapura Road)
+22,211F,23,Konanakunte Cross
+23,211F,24,Doddakallasandra
+24,211F,25,Gubbalala Cross
+25,211F,26,Raghuvanahalli
+26,211F,27,Thalaghattapura
+27,211F,28,Jyothi Farm
+28,211F,29,Agara Gate (Kanakapura Road)
+29,211F,30,Tataguni Estate
+30,211F,31,Kuppareddykere
+31,211F,32,Art Of Living Ashram
+32,211F,33,Udayapura
+33,211F,34,Saaluhunase
+34,211F,35,Kaggalipura

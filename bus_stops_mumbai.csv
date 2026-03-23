@@ -1,0 +1,680 @@
+sno,route_id,stop_id,stop_name
+0,1,1,Colaba Depot
+1,1,2,Holi Name Vidyalaya
+2,1,3,Dr.Shyamaprasad Mukherjee Chowk (Museum)
+3,1,4,Hutatma Chowk / Mumbai University
+4,1,5,Hutatma Chowk
+5,1,6,Khadi Bhandar
+6,1,7,Chhatrapati Shivaji Maharaj Terminus (C.S.M.T.)
+7,1,8,Chhatrapati Shivaji Maharaj Terminus
+8,1,9,Mahatma Phule Market (Crawford Market)
+9,1,10,Chakala Market
+10,1,11,Zakeria Masjid
+11,1,12,Zakeria Masjid
+12,1,13,Mandavi Post Office
+13,1,14,Johar Chowk (Bhendi Bazar)
+14,1,15,Dr.M.Iqbal Chowk (J.J.Hospital)
+15,1,16,A.H.Ansari Chowk (New Nagpada)
+16,1,17,A.H.Ansari Chowk (Nagpada)
+17,1,18,Byculla Station (E)
+18,1,19,Byculla Railway Station (E)
+19,1,20,Byculla Station (E) / Sant Savta Market
+20,1,21,Robert Gomes Chowk
+21,1,22,Jijamata Udyan
+22,1,23,Jaihind Cinema
+23,1,24,K.Shantaram Pujare Chowk
+24,1,25,Shantaram Pujare Chowk (Kala Chowky)
+25,1,26,Sant Jagnade Chowk (Lalbaug)
+26,1,27,Bharatmata Cinema
+27,1,28,Parel Workshop
+28,1,29,Madkebuwa Chowk (Parel)
+29,1,30,Madkebuwa Chowk
+30,1,31,Hindmata Cinema (Dadar)
+31,1,32,Shinde Wadi
+32,1,33,Chitra Cinema
+33,1,34,Dadar Post Office
+34,1,35,Khodadad Circle (Dadar T.T.)
+35,1,36,Veer Hutatma Bhai Kotwal Udyan (Plaza)
+36,1,37,Veer Hutatma Bhai Kotwal Udyan (Plaza)
+37,1,38,Ram Ganesh Gadkari Chowk (Dadar W)
+38,1,39,Citylight Cinema
+39,1,40,Shitaladevi Temple Mahim
+40,1,41,Mahim Paradise
+41,1,42,Mahim
+42,1,43,Mahim Kajve / Koliwada
+43,1,44,Telephone Exchange (Bandra-W)
+44,1,45,Sir Aliyawar Jung Institute (Bandra-W)
+45,1,46,Akshay
+46,1,47,Parijat
+47,1,48,Unit Trust Of India (Bandra)
+48,1,49,Bandra Reclamation Bus Station
+
+sno,route_id,stop_id,stop_name
+0,2LTD,1,Colaba Depot
+1,2LTD,2,Holi Name Vidyalaya
+2,2LTD,3,Dr.Shyamaprasad Mukherjee Chowk (Museum)
+3,2LTD,4,Old Custom House
+4,2LTD,5,Reserve Bank Of India (Fort)
+5,2LTD,6,Swami Dyanand Saraswati Chowk (Fort)
+6,2LTD,7,Chhatrapati Shivaji Maharaj Terminus (G.P.O.)
+7,2LTD,8,Chhatrapati Shivaji Maharaj Terminus
+8,2LTD,9,Mahatma Phule Market (Crawford Market)
+9,2LTD,10,Chakala Market
+10,2LTD,11,Zakeria Masjid
+11,2LTD,12,Johar Chowk (Bhendi Bazar)
+12,2LTD,13,Dr.M.Iqbal Chowk (J.J.Hospital)
+13,2LTD,14,AH Ansari Chowk (New Nagpada)
+14,2LTD,15,A.H Ansari Chowk (Nagpada)
+15,2LTD,16,Byculla Station (W)
+16,2LTD,17,S Bridge / Mandlik Chowk
+17,2LTD,18,Com.Gulabrao Ganacharya Chowk
+18,2LTD,19,N.M.Joshi Marg Police Station
+19,2LTD,20,Bawala Masjid
+20,2LTD,21,Parel S.T Depot / Sant Rohidas Chowk
+21,2LTD,22,Jakhadevi / Dadar Police Station
+22,2LTD,23,Our Lady Of Salvation School
+23,2LTD,24,Prabodhankar Thackeray Chowk (Dadar W)
+24,2LTD,25,Ranade Road (Dadar W)
+25,2LTD,26,Ram Ganesh Gadkari Chowk (Dadar W)
+26,2LTD,27,Citylight Cinema
+27,2LTD,28,Mahim Paradise
+28,2LTD,29,Mahim Koliwada
+29,2LTD,30,Kala Nagar (Bandra)
+30,2LTD,31,Kherwadi Junction
+31,2LTD,32,Chetana College (Bandra E)
+32,2LTD,33,Collector Office (Bandra-E)
+33,2LTD,34,R.N.A Complex
+34,2LTD,35,Bandra Colony Bus Station
+
+sno,route_id,stop_id,stop_name
+0,3,1,Navy Nagar (Colaba)
+1,3,2,Dhobi Ghat (Navy Nagar)
+2,3,3,Afghan Church
+3,3,4,Colaba Post Office
+4,3,5,Colaba Bus Station
+5,3,6,Wood House
+6,3,7,Sassoon Dock / Fire Station
+7,3,8,Regal Cinema Colaba
+8,3,9,Colaba Depot
+9,3,10,Holi Name Vidyalaya
+10,3,11,Dr.Shyamaprasad Mukherjee Chowk (Museum)
+11,3,12,Old Custom House
+12,3,13,Reserve Bank Of India (Fort)
+13,3,14,Swami D.Saraswati Chowk
+14,3,15,Swami Dayanand Saraswati Chowk
+15,3,16,Chhatrapati Shivaji Maharaj Terminus (G.P.O.)
+16,3,17,Chhatrapati Shivaji Maharaj Terminus
+17,3,18,Mahatma Phule Market (Crawford Market)
+18,3,19,Chakala Market
+19,3,20,Zakeria Masjid
+20,3,21,Mandavi Post Office
+21,3,22,Johar Chowk (Bhendi Bazar)
+22,3,23,Dr.M.Iqbal Chowk (J.J.Hospital)
+23,3,24,AH Ansari Chowk (New Nagpada)
+24,3,25,AH Ansari Chowk | New Nagpada
+25,3,26,Saint Mary High School
+26,3,27,Mazgaon Court
+27,3,28,Maharana Pratap Chowk (Mazgaon)
+28,3,29,Anjeerwadi
+29,3,30,Savlya Tandel Chowk / Mustafa Bazar
+30,3,31,Mustafa Bazar / Savlya Tandel Chowk
+31,3,32,Byculla Station (E) / Gloria Cinema
+32,3,33,Byculla Railway Station (E)
+33,3,34,Jijamata Udyan
+34,3,35,Jijamata Udyan (Byculla)
+
+sno,route_id,stop_id,stop_name
+0,4LTD,1,Dr.M.Iqbal Chowk (J.J.Hospital)
+1,4LTD,2,AH Ansari Chowk (New Nagpada)
+2,4LTD,3,Byculla Railway Station (E)
+3,4LTD,4,Jijamata Udyan
+4,4LTD,5,Jaihind Cinema
+5,4LTD,6,K.Shantaram Pujare Chowk
+6,4LTD,7,Sant Jagnade Chowk (Lalbaug)
+7,4LTD,8,Madkebuwa Chowk (Parel)
+8,4LTD,9,Madkebuwa Chowk
+9,4LTD,10,Hindmata Cinema (Dadar)
+10,4LTD,11,Khodadad Circle (Dadar T.T.)
+11,4LTD,12,Veer Hutatma Bhai Kotwal Udyan (Plaza)
+12,4LTD,13,Veer Hutatma Bhai Kotwal Udyan (Plaza)
+13,4LTD,14,Ram Ganesh Gadkari Chowk (Dadar W)
+14,4LTD,15,Citylight Cinema
+15,4LTD,16,Mahim Paradise
+16,4LTD,17,Mahim
+17,4LTD,18,Mahim Koliwada
+18,4LTD,19,P.Mohammed Rafi Chowk (Bandra-W)
+19,4LTD,20,Bandra Talkies / Shroff Eye Hospital
+20,4LTD,21,National College
+21,4LTD,22,Old Khar
+22,4LTD,23,Khar Station (W) Road
+23,4LTD,24,Saint Teresa Convent School
+24,4LTD,25,Santacruz Station (W) Road
+25,4LTD,26,Khira Nagar (Santacruz W)
+26,4LTD,27,Santacruz Depot
+27,4LTD,28,Nanavati Hospital
+28,4LTD,29,Vile Parle Station (W)
+29,4LTD,30,Andheri Fire Station
+30,4LTD,31,Shoppers Stop
+31,4LTD,32,Andheri Station (W)
+32,4LTD,33,Andheri Market
+33,4LTD,34,Amboli Naka
+34,4LTD,35,Jogeshwari (W) Bus Station
+35,4LTD,36,Jogeshwari Telephone Exchange
+36,4LTD,37,Ajit Glass Factory
+37,4LTD,38,Oshiwara Bridge
+38,4LTD,39,Goregaon Oshiwara Depot
+
+sno,route_id,stop_id,stop_name
+0,6LTD,1,Gawangaon Refineries
+1,6LTD,2,Bharat Petroleum Gate
+2,6LTD,3,B.D.Patil Marg / Hindustan Petroleum Company
+3,6LTD,4,Calico Company
+4,6LTD,5,Shankar Mandir
+5,6LTD,6,Vashi Naka
+6,6LTD,7,Vashi Naka Chembur (E)
+7,6LTD,8,RCF Police Station
+8,6LTD,9,Aziz Baug
+9,6LTD,10,Marawali Church
+10,6LTD,11,Chembur Colony
+11,6LTD,12,Chembur Colony Chembur (E)
+12,6LTD,13,Navjeevan Society
+13,6LTD,14,Basant Park
+14,6LTD,15,Bhakti Bhavan
+15,6LTD,16,Umarshi Bappa Chowk (Chembur)
+16,6LTD,17,Lokshahir Annabhau Sathe Udyan / Suman Nagar
+17,6LTD,18,Priyadarshini
+18,6LTD,19,Everard Colony
+19,6LTD,20,Anik Depot
+20,6LTD,21,Inter State Bus Terminal
+21,6LTD,22,Wadala Truck Terminal (Main Gate)
+22,6LTD,23,Bhakti Park Gate (Anik)
+23,6LTD,24,Bhakti Park Monorail Station
+24,6LTD,25,Ganesh Nagar (Anik)
+25,6LTD,26,Adarsh High School (Anik)
+26,6LTD,27,Shantinagar (Wadala)
+27,6LTD,28,Ganesh Nagar (Wadala)
+28,6LTD,29,Barkat Ali Dargah
+29,6LTD,30,Barkat Ali June
+30,6LTD,31,Wadala Bridge
+31,6LTD,32,Wadala Flyover Bridge
+32,6LTD,33,Wadala Church
+33,6LTD,34,Wadala Church
+34,6LTD,35,Five Gardens
+35,6LTD,36,Ruia College
+36,6LTD,37,Khodadad Circle (Dadar T.T.)
+37,6LTD,38,Chitra Cinema
+38,6LTD,39,Hindmata Cinema (Dadar)
+39,6LTD,40,Madkebuwa Chowk (Parel)
+40,6LTD,41,Parel Workshop
+41,6LTD,42,Bharatmata Cinema
+42,6LTD,43,Sant Jagnade Chowk (Lalbaug)
+43,6LTD,44,Shantaram Pujare Chowk (Kala Chowky)
+44,6LTD,45,Jaihind Cinema
+45,6LTD,46,Jijamata Udyan
+46,6LTD,47,Byculla Station (E)
+47,6LTD,48,A.H Ansari Chowk (Nagpada)
+48,6LTD,49,AH Ansari Chowk (New Nagpada)
+49,6LTD,50,Dr.M.Iqbal Chowk (J.J.Hospital)
+50,6LTD,51,Johar Chowk (Bhendi Bazar)
+51,6LTD,52,Mandvi Post Office
+52,6LTD,53,Zakeria Masjid
+53,6LTD,54,Chakala Market
+54,6LTD,55,Mahatma Phule Market (Crawford Market)
+55,6LTD,56,Chhatrapati Shivaji Maharaj Terminus
+56,6LTD,57,Khadi Bhandar
+57,6LTD,58,Hutatma Chowk / Siddharth College
+58,6LTD,59,Hutatma Chowk (Mumbai University)
+59,6LTD,60,Dr.Shyamaprasad Mukherjee Chowk (Museum)
+60,6LTD,61,Dr. Shyama Prasad Mukherjee Chowk
+61,6LTD,62,Colaba Depot
+
+sno,route_id,stop_id,stop_name
+0,7LTD,1,Vikhroli Depot
+1,7LTD,2,Meena Tai Thackeray Park
+2,7LTD,3,Dargah Vikhroli
+3,7LTD,4,Damodar Park
+4,7LTD,5,Shreyas Cinema
+5,7LTD,6,Gopal Bhavan
+6,7LTD,7,Sarvodaya Hospital
+7,7LTD,8,Ghatkopar Pipe Line
+8,7LTD,9,Ghatkopar Police Station
+9,7LTD,10,Chirag Nagar
+10,7LTD,11,Narayan Nagar (Ghatkopar)
+11,7LTD,12,Guru Nanak Nagar (Ghatkopar W)
+12,7LTD,13,Mukund Company Kamani
+13,7LTD,14,Kamani
+14,7LTD,15,State Bank Kamani
+15,7LTD,16,Sheetal Cinema Kurla (W)
+16,7LTD,17,Old Agra Road Kurla (W)
+17,7LTD,18,Kalpana Cinema
+18,7LTD,19,Kurla Depot
+19,7LTD,20,Kurla Depot
+20,7LTD,21,Anjanabai Magar Chowk / Late Sainik Ramchandra Dhondu Surve Chowk
+21,7LTD,22,Anjanabai Magar Chowk
+22,7LTD,23,Gol Building (Kurla W)
+23,7LTD,24,Kurla Post Office
+24,7LTD,25,Rajmata Ahilyabai Holkar Udyan / Kurla Lions Udyan
+25,7LTD,26,Chunabhatti Phatak
+26,7LTD,27,Kurla Level Crossing
+27,7LTD,28,Maharashtra Weighing Scale
+28,7LTD,29,Naik Nagar
+29,7LTD,30,Maharashtra Nature Park / PMGP Colony
+30,7LTD,31,Dharavi Depot
+31,7LTD,32,Dharavi Depot
+32,7LTD,33,Dharavi Koliwada
+33,7LTD,34,Dharavi T Junction / Tapase Chowk
+34,7LTD,35,Dharavi Flyover / Mahim Flyover
+35,7LTD,36,Mahim Phatak
+36,7LTD,37,Shahu Nagar (Dharavi)
+37,7LTD,38,Matunga Labour Camp
+38,7LTD,39,Kumbharwada (Dharavi)
+39,7LTD,40,Tilak Hospital
+40,7LTD,41,Gandhi Market Matunga
+41,7LTD,42,Matunga Police Station
+42,7LTD,43,Maheshwari Udyan (Kings Circle)
+43,7LTD,44,Maheshwari Udyan (Kings Circle)
+44,7LTD,45,Maheshwari Udyan
+45,7LTD,46,Kapole Niwas / J.N. Verma Chowk
+46,7LTD,47,Ruia College
+47,7LTD,48,Ruia College
+48,7LTD,49,Khodadad Circle (Dadar T.T.)
+49,7LTD,50,Khodadad Circle (Dadar T.T.)
+50,7LTD,51,Dadar Post Office
+51,7LTD,52,Chitra Cinema
+52,7LTD,53,Shinde Wadi
+53,7LTD,54,Hindmata Cinema (Dadar)
+54,7LTD,55,Madkebuwa Chowk (Parel)
+55,7LTD,56,Parel Workshop
+56,7LTD,57,Bharatmata Cinema
+57,7LTD,58,Sant Jagnade Chowk (Lalbaug)
+58,7LTD,59,Shantaram Pujare Chowk (Kala Chowky)
+59,7LTD,60,Jaihind Cinema
+60,7LTD,61,Jijamata Udyan
+61,7LTD,62,Robert Gomes Chowk
+62,7LTD,63,Byculla Station (E) / Sant Savta Market
+63,7LTD,64,Byculla Station (E)
+64,7LTD,65,Byculla Railway Station (E)
+65,7LTD,66,A.H Ansari Chowk (Nagpada)
+66,7LTD,67,AH Ansari Chowk (New Nagpada)
+67,7LTD,68,Dr.M.Iqbal Chowk (J.J.Hospital)
+
+sno,route_id,stop_id,stop_name
+0,6LTD,1,Mahul Village
+1,6LTD,2,Mahul Market
+2,6LTD,3,M.M.R.D.A.Colony
+3,6LTD,4,Wadala Road (Mahul)
+4,6LTD,5,Mazgaon Dock (Mahul)
+5,6LTD,6,Acharya Vidyaniketan
+6,6LTD,7,H.P.Colony
+7,6LTD,8,B.P.C.L.Sports Club
+8,6LTD,9,Shankar Mandir
+9,6LTD,10,Vashi Naka
+10,6LTD,11,Vashi Naka
+11,6LTD,12,R.C.F.Police Station
+12,6LTD,13,Aziz Baug
+13,6LTD,14,Marawali Church
+14,6LTD,15,Chembur Colony
+15,6LTD,16,Chembur Colony Chembur (E)
+16,6LTD,17,Navjeevan Society
+17,6LTD,18,Basant Park
+18,6LTD,19,Bhakti Bhavan
+19,6LTD,20,Umrashi Bappa Chowk
+20,6LTD,21,Lokshahir Annabhau Sathe Udyan / Suman Nagar
+21,6LTD,22,Priyadarshini
+22,6LTD,23,Everard Colony
+23,6LTD,24,Anik Depot
+24,6LTD,25,Inter State Bus Terminal
+25,6LTD,26,Wadala Truck Terminal (Main Gate)
+26,6LTD,27,Bhakti Park Gate (Anik)
+27,6LTD,28,Bhakti Park Monorail Station
+28,6LTD,29,Ganesh Nagar (Anik)
+29,6LTD,30,Adarsh High School (Anik)
+30,6LTD,31,Shantinagar (Wadala)
+31,6LTD,32,Ganesh Nagar (Wadala)
+32,6LTD,33,Barkat Ali Dargah
+33,6LTD,34,Barkat Ali June
+34,6LTD,35,B.P.T Colony
+35,6LTD,36,Wadala Bridge
+36,6LTD,37,Wadala Flyover Bridge
+37,6LTD,38,Wadala Church
+38,6LTD,39,Wadala Church
+39,6LTD,40,Five Gardens
+40,6LTD,41,Ruia College
+41,6LTD,42,Khodadad Circle (Dadar T.T.)
+42,6LTD,43,Chitra Cinema
+43,6LTD,44,Hindmata Cinema (Dadar)
+44,6LTD,45,Madkebuwa Chowk (Parel)
+45,6LTD,46,Parel Workshop
+46,6LTD,47,Bharatmata Cinema
+47,6LTD,48,Sant Jagnade Chowk (Lalbaug)
+48,6LTD,49,Shantaram Pujare Chowk (Kala Chowky)
+49,6LTD,50,Jaihind Cinema
+50,6LTD,51,Jijamata Udyan
+51,6LTD,52,Byculla Station (E)
+52,6LTD,53,A.H.Ansari Chowk
+53,6LTD,54,A.H.Ansari Chowk (New Nagpada)
+54,6LTD,55,Dr.M.Iqbal Chowk (J.J.Hospital)
+55,6LTD,56,Johar Chowk (Bhendi Bazar)
+56,6LTD,57,Mandvi Post Office
+57,6LTD,58,Zakeria Masjid
+58,6LTD,59,Chakala Market
+59,6LTD,60,Mahatma Phule Market (Crawford Market)
+60,6LTD,61,Chhatrapati Shivaji Maharaj Terminus
+61,6LTD,62,Khadi Bhandar
+62,6LTD,63,Hutatma Chowk / Siddharth College
+63,6LTD,64,Hutatma Chowk (Mumbai University)
+64,6LTD,65,Dr.Shyamaprasad Mukherjee Chowk (Museum)
+65,6LTD,66,Dr. Shyama Prasad Mukherjee Chowk
+66,6LTD,67,Colaba Depot
+
+sno,route_id,stop_id,stop_name
+0,7LTD,1,Vikhroli Depot
+1,7LTD,2,Meena Tai Thackeray Park
+2,7LTD,3,Dargah Vikhroli
+3,7LTD,4,Damodar Park
+4,7LTD,5,Shreyas Cinema
+5,7LTD,6,Gopal Bhavan
+6,7LTD,7,Sarvodaya Hospital
+7,7LTD,8,Ghatkopar Pipe Line
+8,7LTD,9,Ghatkopar Police Station
+9,7LTD,10,Chirag Nagar
+10,7LTD,11,Narayan Nagar (Ghatkopar)
+11,7LTD,12,Guru Nanak Nagar (Ghatkopar W)
+12,7LTD,13,Mukund Company Kamani
+13,7LTD,14,Kamani
+14,7LTD,15,State Bank Kamani
+15,7LTD,16,Sheetal Cinema Kurla (W)
+16,7LTD,17,Old Agra Road Kurla (W)
+17,7LTD,18,Kalpana Cinema
+18,7LTD,19,Kurla Depot
+19,7LTD,20,Kurla Depot
+20,7LTD,21,Anjanabai Magar Chowk / Late Sainik Ramchandra Dhondu Surve Chowk
+21,7LTD,22,Anjanabai Magar Chowk
+22,7LTD,23,Gol Building (Kurla W)
+23,7LTD,24,Kurla Post Office
+24,7LTD,25,Rajmata Ahilyabai Holkar Udyan / Kurla Lions Udyan
+25,7LTD,26,Chunabhatti Phatak
+26,7LTD,27,Kurla Level Crossing
+27,7LTD,28,Maharashtra Weighing Scale
+28,7LTD,29,Naik Nagar
+29,7LTD,30,Maharashtra Nature Park / PMGP Colony
+30,7LTD,31,Dharavi Depot
+31,7LTD,32,Dharavi Depot
+32,7LTD,33,Dharavi Koliwada
+33,7LTD,34,Dharavi T Junction / Tapase Chowk
+34,7LTD,35,Dharavi Flyover / Mahim Flyover
+35,7LTD,36,Mahim Phatak
+36,7LTD,37,Shahu Nagar (Dharavi)
+37,7LTD,38,Matunga Labour Camp
+38,7LTD,39,Kumbharwada (Dharavi)
+39,7LTD,40,Tilak Hospital
+40,7LTD,41,Gandhi Market Matunga
+41,7LTD,42,Matunga Police Station
+42,7LTD,43,Maheshwari Udyan (Kings Circle)
+43,7LTD,44,Maheshwari Udyan (Kings Circle)
+44,7LTD,45,Maheshwari Udyan
+45,7LTD,46,Kapole Niwas / J.N. Verma Chowk
+46,7LTD,47,Ruia College
+47,7LTD,48,Ruia College
+48,7LTD,49,Khodadad Circle (Dadar T.T.)
+49,7LTD,50,Khodadad Circle (Dadar T.T.)
+50,7LTD,51,Dadar Post Office
+51,7LTD,52,Chitra Cinema
+52,7LTD,53,Shinde Wadi
+53,7LTD,54,Hindmata Cinema (Dadar)
+54,7LTD,55,Madkebuwa Chowk (Parel)
+55,7LTD,56,Parel Workshop
+56,7LTD,57,Bharatmata Cinema
+57,7LTD,58,Sant Jagnade Chowk (Lalbaug)
+58,7LTD,59,Shantaram Pujare Chowk (Kala Chowky)
+59,7LTD,60,Jaihind Cinema
+60,7LTD,61,Jijamata Udyan
+61,7LTD,62,Robert Gomes Chowk
+62,7LTD,63,Byculla Station (E) / Sant Savta Market
+63,7LTD,64,Byculla Station (E)
+64,7LTD,65,Byculla Railway Station (E)
+65,7LTD,66,A.H Ansari Chowk (Nagpada)
+66,7LTD,67,AH Ansari Chowk (New Nagpada)
+67,7LTD,68,Dr.M.Iqbal Chowk (J.J.Hospital)
+
+sno,route_id,stop_id,stop_name
+0,8LTD,1,Shivaji Nagar (Govandi) Terminus
+1,8LTD,2,Shivaji Nagar (Govandi) Post Office
+2,8LTD,3,Shivaji Nagar Junction (Govandi)
+3,8LTD,4,Gautam Nagar / Deonar Abattoir
+4,8LTD,5,Samrat Ashok Nagar
+5,8LTD,6,Dadoji Kondev Nagar (Khardev Nagar)
+6,8LTD,7,Acharya Marathe College
+7,8LTD,8,Subhash Nagar Chembur (E)
+8,8LTD,9,Chembur Station (Dr.Ambedkar Garden)
+9,8LTD,10,Dr.B.R Ambedkar Udyan (Chembur) Bus Station
+10,8LTD,11,Dr.B.R Ambedkar Udyan (Chembur)
+11,8LTD,12,10th Road Chembur
+12,8LTD,13,Acharya Udyan
+13,8LTD,14,Sandu Wadi
+14,8LTD,15,Chembur Naka (Swami Vivekanand Chowk)
+15,8LTD,16,Umarshi Bappa Chowk (Chembur)
+16,8LTD,17,Lokshahir Annabhau Sathe Udyan / Suman Nagar
+17,8LTD,18,Priyadarshini
+18,8LTD,19,Everard Nagar
+19,8LTD,20,Highway Apartment
+20,8LTD,21,Rani Laxmibai Chowk Sion
+21,8LTD,22,Lokmanya Tilak Hospital / Sion Hospital Flyover
+22,8LTD,23,Maheshwari Udyan (Kings Circle)
+23,8LTD,24,Kapole Niwas / J.N. Verma Chowk
+24,8LTD,25,Khodadad Circle (Dadar T.T.)
+25,8LTD,26,Shinde Wadi
+26,8LTD,27,Madkebuwa Chowk (Parel)
+27,8LTD,28,Parel Workshop
+28,8LTD,29,Sant Jagnade Chowk (Lalbaug)
+29,8LTD,30,Jaihind Cinema
+30,8LTD,31,Jijamata Udyan
+31,8LTD,32,Byculla Station (E)
+32,8LTD,33,A.H Ansari Chowk (Nagpada)
+33,8LTD,34,AH Ansari Chowk (New Nagpada)
+34,8LTD,35,Dr.M.Iqbal Chowk (J.J.Hospital)
+35,8LTD,36,Johar Chowk (Bhendi Bazar)
+36,8LTD,37,Mandvi Post Office
+37,8LTD,38,Zakeria Masjid
+38,8LTD,39,Chakala Market
+39,8LTD,40,Mahatma Phule Market (Crawford Market)
+40,8LTD,41,Chhatrapati Shivaji Maharaj Terminus
+41,8LTD,42,Khadi Bhandar
+42,8LTD,43,Hutatma Chowk / Siddharth College
+
+sno,route_id,stop_id,stop_name
+0,25LTD,1,Vihar Lake
+1,25LTD,2,Ramada Hotel (Powai)
+2,25LTD,3,Nitie
+3,25LTD,4,Morarji Nagar
+4,25LTD,5,P.W.D.Office
+5,25LTD,6,Dr.Ambedkar Udyan (Powai)
+6,25LTD,7,L&T Gate No.6
+7,25LTD,8,Tunga Village
+8,25LTD,9,ESIS Local Office
+9,25LTD,10,John Baker
+10,25LTD,11,Chandivali Junction
+11,25LTD,12,Marwah Road Junction
+12,25LTD,13,State Bank
+13,25LTD,14,Dr. Datta Samant Chowk / Saki Naka
+14,25LTD,15,Vijay Printing Press
+15,25LTD,16,Safed Pool
+16,25LTD,17,Jari Mari
+17,25LTD,18,Bail Bazar (Kurla W)
+18,25LTD,19,Kamani
+19,25LTD,20,Sheetal Cinema Kurla (W)
+20,25LTD,21,Old Agra Road Kurla (W)
+21,25LTD,22,Kurla Depot
+22,25LTD,23,Anjanabai Magar Chowk / Late Sainik Ramchandra Dhondu Surve Chowk
+23,25LTD,24,Gol Building (Kurla W)
+24,25LTD,25,Kurla Post Office
+25,25LTD,26,Rajmata Ahilyabai Holkar Udyan / Kurla Lions Udyan
+26,25LTD,27,Kurla Level Crossing
+27,25LTD,28,Maharashtra Nature Park / PMGP Colony
+28,25LTD,29,Dharavi Depot
+29,25LTD,30,Dharavi Koliwada
+30,25LTD,31,Dharavi T Junction / Tapase Chowk
+31,25LTD,32,Dharavi Flyover / Mahim Flyover
+32,25LTD,33,Mahim Phatak
+33,25LTD,34,Shahu Nagar (Dharavi)
+34,25LTD,35,Matunga Labour Camp
+35,25LTD,36,Kumbharwada (Dharavi)
+36,25LTD,37,Tilak Hospital
+37,25LTD,38,Gandhi Market Matunga
+38,25LTD,39,Maheshwari Udyan (Kings Circle)
+39,25LTD,40,Maheshwari Udyan
+40,25LTD,41,Kapole Niwas / J.N. Verma Chowk
+41,25LTD,42,Khodadad Circle (Dadar T.T.)
+42,25LTD,43,Sharda Cinema
+43,25LTD,44,Dadasaheb Sarfare Chowk
+44,25LTD,45,Spring Mill
+45,25LTD,46,Naigaon Police Colony
+46,25LTD,47,Bhoiwada / Mane Master Chowk
+47,25LTD,48,Tata Hospital (Bhoiwada)
+48,25LTD,49,Wadia Maternity Hospital
+49,25LTD,50,Haffkine Institute
+50,25LTD,51,Parel Village / Sant Gora Kumbhar Chowk
+51,25LTD,52,Sewree Naka
+52,25LTD,53,Prabodhankar Thackeray Udyan Bus Station (Sewree)
+
+sno,route_id,stop_id,stop_name
+0,22LTD,1,Vijay Vallabh Chowk (Pydhonie)
+1,22LTD,2,Johar Chowk (Bhendi Bazar)
+2,22LTD,3,Dr. M. Iqbal Chowk (J.J. Hospital)
+3,22LTD,4,AH Ansari Chowk (New Nagpada)
+4,22LTD,5,Byculla Railway Station (E)
+5,22LTD,6,Jijamata Udyan
+6,22LTD,7,Jaihind Cinema
+7,22LTD,8,Sant Jagnade Chowk (Lalbaug)
+8,22LTD,9,Madkebuwa Chowk (Parel)
+9,22LTD,10,Hindmata Cinema (Dadar)
+10,22LTD,11,Khodadad Circle (Dadar T.T.)
+11,22LTD,12,Kapole Niwas / J.N. Varma Chowk
+12,22LTD,13,Maheshwari Udyan (Kings Circle)
+13,22LTD,14,Gandhi Market Matunga
+14,22LTD,15,Tilak Hospital
+15,22LTD,16,Kumbharwada (Dharavi)
+16,22LTD,17,Matunga Labour Camp
+17,22LTD,18,Shahu Nagar (Dharavi)
+18,22LTD,19,Mahim Phatak
+19,22LTD,20,Dharavi Flyover / Mahim Flyover
+20,22LTD,21,Dharavi T Junction / Tapase Chowk
+21,22LTD,22,Dharavi Koliwada
+22,22LTD,23,Dharavi Depot
+23,22LTD,24,Maharashtra Nature Park / PMGP Colony
+24,22LTD,25,Kurla Level Crossing
+25,22LTD,26,Chunabhatti Phatak
+26,22LTD,27,Rajmata Ahilyabai Holkar Udyan / Kurla Lions Udyan
+27,22LTD,28,Kurla Post Office
+28,22LTD,29,Gol Building (Kurla W)
+29,22LTD,30,Anjanabai Magar Chowk / Late Sainik Ramchandra Dhondu Surve Chowk
+30,22LTD,31,Kurla Depot
+31,22LTD,32,Old Agra Road Kurla (W)
+32,22LTD,33,Sheetal Cinema Kurla (W)
+33,22LTD,34,Kamani
+34,22LTD,35,Bail Bazar (Kurla W)
+35,22LTD,36,Jari Mari
+36,22LTD,37,Safed Pool
+37,22LTD,38,Vijay Printing Press
+38,22LTD,39,Saki Naka / Dr. Datta Samant Chowk
+39,22LTD,40,Mittal Estate
+40,22LTD,41,Marol Naka
+41,22LTD,42,Marol Village
+42,22LTD,43,State Bank Of India Marol
+43,22LTD,44,Marol Maroshi Bus Station
+
+sno,route_id,stop_id,stop_name
+0,28,1,J.V.P.D.Bus Station
+1,28,2,Saurashtra Society
+2,28,3,Sukhmani Housing Society
+3,28,4,Bharatiya Arogya Nidhi Hospital
+4,28,5,Juhu Bus Station
+5,28,6,Juhu Bus Station
+6,28,7,Juhu Hotel
+7,28,8,Juhu Hotel
+8,28,9,Parsi Colony Juhu
+9,28,10,Juhu Beach
+10,28,11,Juhu Beach
+11,28,12,Royal Hotel
+12,28,13,Juhu Tara
+13,28,14,Manekji Cooper School
+14,28,15,Juhu Koliwada
+15,28,16,S.N.D.T College Juhu
+16,28,17,Balkanji Bari School
+17,28,18,Santacruz Police Station
+18,28,19,Arya Samaj Mandir
+19,28,20,Ramakrishna Mission
+20,28,21,Khar Linking Road
+21,28,22,Khar Telephone Exchange
+22,28,23,K.F.C.Market
+23,28,24,National College
+24,28,25,Bandra Talkies
+25,28,26,Jarimari
+26,28,27,P Mohammed Rafi Chowk (Bandra W)
+27,28,28,P Mohammed Rafi Chowk (S.V Road)
+28,28,29,Mahim Koliwada
+29,28,30,Mahim
+30,28,31,Mahim Paradise
+31,28,32,Shitaladevi Temple Mahim
+32,28,33,Citylight Cinema
+33,28,34,Ram Ganesh Gadkari Chowk (Dadar W)
+34,28,35,Ram Ganesh Gadkari Chowk
+35,28,36,Ranade Road (Dadar W)
+36,28,37,Prabodhankar Thackeray Chowk (Dadar W)
+37,28,38,Agar Bazar
+38,28,39,Siddhivinayak Mandir
+39,28,40,Ravindra Natya Mandir / Prabhadevi
+40,28,41,Prabhadevi
+41,28,42,Standard Mill
+42,28,43,Babasaheb Worlikar Chowk (Century Bazar)
+43,28,44,Babasaheb Worlikar Chowk / Passport Office
+44,28,45,Passport Office (Worli)
+45,28,46,Dr.Ravindra Kulkarni Chowk (Sasmira- Worli)
+46,28,47,Doordarshan
+47,28,48,Doordarshan
+48,28,49,Poddar Hospital / Siddharth Nagar
+49,28,50,Poddar Hospital
+50,28,51,Aacharya Atre Chowk / Worli Naka
+51,28,52,Jarimari Mata Mandir / S.T Office
+52,28,53,Nehru Planetarium (Worli) | NSCI
+53,28,54,Nehru Planetarium N.S.C.I (Worli)
+54,28,55,Lala Lajpatrai College
+55,28,56,Vatsalabai Desai Chowk (Haji Ali)
+56,28,57,Jaslok Hospital
+57,28,58,Cumbala Hill Post Office
+58,28,59,Nalanda Peddar Road
+59,28,60,Godrej Chowk
+60,28,61,Babulnath Junction
+61,28,62,Shrimati Motiben Dalvi Hospital
+62,28,63,Sukh Sagar
+63,28,64,Pt. Paluskar Chowk (Opera House)
+64,28,65,Saifee Hospital
+65,28,66,SK Patil Garden
+66,28,67,SK Patil Garden (Charni Road)
+67,28,68,Marine Lines Station (E)
+68,28,69,Vasudev Balwant Phadke Chowk
+69,28,70,Vasudev Balwant Phadke Chowk
+70,28,71,Chhatrapati Shivaji Maharaj Terminus
+71,28,72,Chhatrapati Shivaji Maharaj Terminus
+
+sno,route_id,stop_id,stop_name
+0,105,1,Vijay Vallabh Chowk (Pydhonie)
+1,105,2,Gol Mandir (Bhuleshwar)
+2,105,3,Alankar Cinema
+3,105,4,Khambata Lane / Alankar Cinema
+4,105,5,Khambata Lane
+5,105,6,Play House
+6,105,7,Novelty Cinema (Dr.Bhadamkar Road)
+7,105,8,Grant Road Bridge
+8,105,9,Gavdevi Police Stn.
+9,105,10,Wilson College
+10,105,11,Chowpaty Band Stand (Girgaon)
+11,105,12,Teen Bakda
+12,105,13,Sheetal Baug
+13,105,14,White House
+14,105,15,Parsi Agyari
+15,105,16,Walkeshwar
+16,105,17,Rekha Sadan / Jain Mandir
+17,105,18,Malbar Hill Police Station
+18,105,19,Sahyadri Guest House
+19,105,20,Kamala Nehru Park (Malabar Hill)

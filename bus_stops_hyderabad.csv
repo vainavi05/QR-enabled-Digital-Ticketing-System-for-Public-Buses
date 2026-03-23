@@ -1,0 +1,545 @@
+sno,route_id,stop_id,stop_name
+0,224/219,1,Miyapur X Road – SV
+1,224/219,2,Miyapur
+2,224/219,3,Allwyn X Road
+3,224/219,4,Madinaguda
+4,224/219,5,Deepthisri Nagar / Madinaguda
+5,224/219,6,Huda Colony
+6,224/219,7,Gangaram
+7,224/219,8,Chanda Nagar
+8,224/219,9,Lingampally Bus Stand
+9,224/219,10,Lingampally
+10,224/219,11,Jyothi Nagar LP
+11,224/219,12,Ashok Nagar LP
+12,224/219,13,Sri Sai Nagar
+13,224/219,14,Mandal Office
+14,224/219,15,BHEL Pushpak
+15,224/219,16,R.C. Puram
+16,224/219,17,Railway Station Gate
+17,224/219,18,ICRISAT
+18,224/219,19,Patancheru
+19,224/219,20,Patancheru Market Road
+20,224/219,21,Navapan
+21,224/219,22,Muttangi
+22,224/219,23,Isnapur X Road
+23,224/219,24,Lakdaram
+24,224/219,25,Rudraram X Road
+25,224/219,26,Gitam University
+
+sno,route_id,stop_id,stop_name
+0,8X,1,Ranigunj Bus Depot
+1,8X,2,Raniganj
+2,8X,3,Boats Club
+3,8X,4,Bible House
+4,8X,5,Bata
+5,8X,6,Patny Center
+6,8X,7,Clock Tower
+7,8X,8,Sangeeth
+8,8X,9,Secunderabad(Towards Uppal)
+9,8X,10,TSRTC Rathifile Bus Station
+10,8X,11,Secunderabad Railway Station
+11,8X,12,Secunderabad Bus Station
+
+sno,route_id,stop_id,stop_name
+0,15H/242RG,1,Secunderabad(Towards Uppal)
+1,15H/242RG,2,TSRTC Rathifile Bus Station
+2,15H/242RG,3,Chilkalguda
+3,15H/242RG,4,Alugadda Bhavi
+4,15H/242RG,5,Railway Hospital / Mettuguda
+5,15H/242RG,6,Lalaguda Junction
+6,15H/242RG,7,New Bridge
+7,15H/242RG,8,North Lalaguda
+8,15H/242RG,9,Masjid Lalaguda
+9,15H/242RG,10,Lalguda Railway Quarters
+10,15H/242RG,11,Santhi Nagar Lalaguda
+11,15H/242RG,12,Ram Theatre
+12,15H/242RG,13,Lalapet
+13,15H/242RG,14,R.P.F. Training Centre
+14,15H/242RG,15,Industrial Estate
+15,15H/242RG,16,Z.T.S. X Road
+16,15H/242RG,17,Carbide
+17,15H/242RG,18,HB Play Ground
+18,15H/242RG,19,Mangapuram / N.R.M. Degree College
+19,15H/242RG,20,Indira Nagar
+20,15H/242RG,21,Laxmi Nagar
+21,15H/242RG,22,Moulali Unani Dispensary
+22,15H/242RG,23,S.P. Nagar
+23,15H/242RG,24,Kushaiguda Depot
+24,15H/242RG,25,Kamla Nagar
+25,15H/242RG,26,ECIL X Road
+26,15H/242RG,27,ECIL X Road Bus Terminal
+27,15H/242RG,28,ECIL X Road
+28,15H/242RG,29,Kushaiguda Road
+29,15H/242RG,30,Kushaiguda
+30,15H/242RG,31,Nagarjuna Colony
+31,15H/242RG,32,Chakripuram
+32,15H/242RG,33,Nagaram Road
+33,15H/242RG,34,Chakripuram Road
+34,15H/242RG,35,Vijaya Hospital Road Nagaram
+35,15H/242RG,36,Nagaram
+36,15H/242RG,37,Sudha Hospital Dammaiguda X Road Nagaram
+37,15H/242RG,38,Rampally X Road
+38,15H/242RG,39,6th Phase K.P.H.B
+39,15H/242RG,40,Icomm Tele Limited
+40,15H/242RG,41,Bandlaguda
+41,15H/242RG,42,Bhavani Nagar
+42,15H/242RG,43,RG Colony Panchayat Office
+43,15H/242RG,44,Rajiv Gruhakalpa Colony
+
+sno,route_id,stop_id,stop_name
+0,5K/92A,1,Secunderabad Bus Station
+1,5K/92A,2,Clock Tower
+2,5K/92A,3,Patny Center
+3,5K/92A,4,Bata
+4,5K/92A,5,Bible House
+5,5K/92A,6,Boats Club
+6,5K/92A,7,DBR Mills
+7,5K/92A,8,Secretariat / L.I.C. Zonal Office
+8,5K/92A,9,AG Office / Birla Mandir
+9,5K/92A,10,Lakdikapool
+10,5K/92A,11,A.C. Guards
+11,5K/92A,12,Masab Tank JNTU
+12,5K/92A,13,Masab Tank NMDC
+13,5K/92A,14,SD Hospital
+14,5K/92A,15,Mehdipatnam
+15,5K/92A,16,Rethibowli
+16,5K/92A,17,Laxmi Nagar
+17,5K/92A,18,Jyothi Nagar
+18,5K/92A,19,Ring Road
+19,5K/92A,20,Attapur X Road
+20,5K/92A,21,Hyderguda X Road
+21,5K/92A,22,Upperpally X Road
+22,5K/92A,23,Dairy Farm
+23,5K/92A,24,Weaker Section Colony / Shivarampally Quarters
+24,5K/92A,25,Shivarampally X Road
+25,5K/92A,26,Aramghar
+
+sno,route_id,stop_id,stop_name
+0,8A,1,Chandrayangutta X Road
+1,8A,2,Falaknuma RLY Bridge
+2,8A,3,Engine Bowli
+3,8A,4,Shamsheergunj
+4,8A,5,Aliyabad
+5,8A,6,Sayed Ali Chabutra
+6,8A,7,Lal Dharwaza Mode
+7,8A,8,Shah Ali Banda X Road
+8,8A,9,Himmathpura / Shali Banda
+9,8A,10,Chowmahalla Palace
+10,8A,11,Khilwat
+11,8A,12,Lad Bazar
+12,8A,13,Moosa Bowli
+13,8A,14,City College
+14,8A,15,High Court
+15,8A,16,Nayapul
+16,8A,17,Afzalgunj
+17,8A,18,Osmangunj
+18,8A,19,Mozamjahi Market
+19,8A,20,Abids (G.P.O.)
+20,8A,21,Latha Talkies
+21,8A,22,Nampally Railway Station
+22,8A,23,Nampally Public Garden
+23,8A,24,L B Stadium Bus Stop
+24,8A,25,Basheerbagh
+25,8A,26,Liberty
+26,8A,27,Liberty – GHMC
+27,8A,28,Mini Tankbund
+28,8A,29,Tank Bund
+29,8A,30,Boats Club
+30,8A,31,Bible House
+31,8A,32,Bata
+32,8A,33,Patny Center
+33,8A,34,Clock Tower
+34,8A,35,Sangeeth
+35,8A,36,Keys High School
+36,8A,37,Secunderabad Railway Station
+
+sno,route_id,stop_id,stop_name
+0,90L/25S,1,Suchitra X Road
+1,90L/25S,2,Loyola Junior College
+2,90L/25S,3,Loyola Academy
+3,90L/25S,4,P.V. Junction
+4,90L/25S,5,Father Balaya Nagar
+5,90L/25S,6,Indira Gandhi Statue
+6,90L/25S,7,Ambedkar Statue
+7,90L/25S,8,Temple Alwal
+8,90L/25S,9,Alwal Police Station Bus Stop
+9,90L/25S,10,Alwal
+10,90L/25S,11,Ram Nagar – Alwal
+11,90L/25S,12,Lothkunta
+12,90L/25S,13,Mceme
+13,90L/25S,14,Lalbazar
+14,90L/25S,15,Thirumalagiri
+15,90L/25S,16,Trimulgherry X Road
+16,90L/25S,17,Hanuman Temple
+17,90L/25S,18,Tirumalagiri
+18,90L/25S,19,Karkhana
+19,90L/25S,20,Vikarampuri
+20,90L/25S,21,Jubilee Bus Station
+21,90L/25S,22,YMCA
+22,90L/25S,23,Sangeeth
+23,90L/25S,24,Secunderabad(Towards Uppal)
+24,90L/25S,25,TSRTC Rathifile Bus Station
+25,90L/25S,26,Chilkalguda
+26,90L/25S,27,Alugadda Bhavi
+27,90L/25S,28,Mettuguda
+28,90L/25S,29,Nin
+29,90L/25S,30,Tarnaka Railway Degree College
+30,90L/25S,31,Tarnaka X Road
+31,90L/25S,32,Tarnaka
+32,90L/25S,33,Habsiguda
+33,90L/25S,34,National Geophysical Research Institute (NGRI)
+34,90L/25S,35,LFJ College
+35,90L/25S,36,Uppal
+36,90L/25S,37,Uppal X Road L.B. Nagar
+37,90L/25S,38,Uppal Pushpak
+38,90L/25S,39,Saraswathi Nagar
+39,90L/25S,40,Ramoji Film City
+40,90L/25S,41,Mamatha Nagar Colony
+41,90L/25S,42,Nagole / Nagole Ring Road
+42,90L/25S,43,Nagole
+43,90L/25S,44,Snehapuri Colony
+44,90L/25S,45,Alkapuri
+45,90L/25S,46,Rajeev Gandhi Nagar
+46,90L/25S,47,Kamineni
+47,90L/25S,48,Central Bank Colony
+48,90L/25S,49,L.B. Nagar Ring Road
+
+sno,route_id,stop_id,stop_name
+0,24S/219,1,ECIL X Road Bus Terminal
+1,24S/219,2,ECIL X Road
+2,24S/219,3,ECIL X Road
+3,24S/219,4,Kamla Nagar
+4,24S/219,5,Radhika
+5,24S/219,6,Asrao Nagar
+6,24S/219,7,Rukmini Puram
+7,24S/219,8,Sainikpuri
+8,24S/219,9,Vayupuri
+9,24S/219,10,Neredmet X Road
+10,24S/219,11,G.K. Colony
+11,24S/219,12,R.K. Puram Bridge
+12,24S/219,13,A.O.C.
+13,24S/219,14,Lal Bazar Bus Stop
+14,24S/219,15,Mceme
+15,24S/219,16,Maruti Nagar
+16,24S/219,17,Lothkunta
+17,24S/219,18,Ram Nagar – Alwal
+18,24S/219,19,Alwal
+19,24S/219,20,Alwal Police Station
+20,24S/219,21,Temple Alwal
+21,24S/219,22,Old Alwal Z.P.H.S.
+22,24S/219,23,Father Balaya Nagar
+23,24S/219,24,P.V. Junction
+24,24S/219,25,Loyola Academy
+25,24S/219,26,Suchitra X Road
+26,24S/219,27,Dairy Farm
+27,24S/219,28,MMR Gardens
+28,24S/219,29,Bowenpally Checkpost
+29,24S/219,30,Bowenpally Police Station
+30,24S/219,31,Bowenpally X Road
+31,24S/219,32,Bowenpally
+32,24S/219,33,Ferozeguda
+33,24S/219,34,Ferozeguda BHEL
+34,24S/219,35,Balanagar-Shobana Theatre
+35,24S/219,36,Balanagar X Roads / CITD.all.shops.
+36,24S/219,37,Niper
+37,24S/219,38,IDPL
+38,24S/219,39,Sai Nagar (Bala Nagar)
+39,24S/219,40,APSRTC Kukatpally Bus Stand
+40,24S/219,41,Kukatpally Government College
+41,24S/219,42,Kukatpally
+42,24S/219,43,Vivekananda Nagar
+43,24S/219,44,Vivekanandanagar Colony RDR Hospital
+44,24S/219,45,KPHB Main Road
+45,24S/219,46,JNTU
+46,24S/219,47,Nizampet X Road
+47,24S/219,48,Hyder Nagar
+48,24S/219,49,Miyapur Metro Station
+49,24S/219,50,Miyapur X Road – SV
+50,24S/219,51,Miyapur
+51,24S/219,52,Allwyn X Road
+52,24S/219,53,Madinaguda
+53,24S/219,54,Deepthisri Nagar / Madinaguda
+54,24S/219,55,Huda Colony
+55,24S/219,56,Gangaram
+56,24S/219,57,Chanda Nagar
+57,24S/219,58,Lingampally Bus Stand
+58,24S/219,59,Lingampally
+59,24S/219,60,Jyothi Nagar LP
+60,24S/219,61,Ashok Nagar LP
+61,24S/219,62,Sri Sai Nagar
+62,24S/219,63,Mandal Office
+63,24S/219,64,BHEL Pushpak
+64,24S/219,65,R.C. Puram
+65,24S/219,66,Railway Station Gate
+66,24S/219,67,ICRISAT
+67,24S/219,68,Patancheru
+68,24S/219,69,Patancheru Bus Terminal
+
+sno,route_id,stop_id,stop_name
+0,1P/25S,1,Chandrayangutta X Road
+1,1P/25S,2,Falaknuma RLY Bridge
+2,1P/25S,3,Falaknuma Terminal
+3,1P/25S,4,Engine Bowli
+4,1P/25S,5,Shamsheergunj
+5,1P/25S,6,Aliyabad
+6,1P/25S,7,Sayed Ali Chabutra
+7,1P/25S,8,Lal Dharwaza Mode
+8,1P/25S,9,Shah Ali Banda X Road
+9,1P/25S,10,Himmathpura / Shali Banda
+10,1P/25S,11,Chowmahalla Palace
+11,1P/25S,12,Khilwat
+12,1P/25S,13,Lad Bazar
+13,1P/25S,14,Moosa Bowli
+14,1P/25S,15,City College
+15,1P/25S,16,High Court
+16,1P/25S,17,Nayapul
+17,1P/25S,18,Afzalgunj
+18,1P/25S,19,Afzalgunj Central Library
+19,1P/25S,20,Central Bus Station (CBS)
+20,1P/25S,21,Chaderghat
+21,1P/25S,22,Koti Womens College
+22,1P/25S,23,Koti Maternity Hospital
+23,1P/25S,24,Ramkoti
+24,1P/25S,25,Kachiguda X Road
+25,1P/25S,26,YMCA
+26,1P/25S,27,Narayanaguda
+27,1P/25S,28,Chikkadpally
+28,1P/25S,29,R.T.C X Road
+29,1P/25S,30,Golconda X Road
+30,1P/25S,31,Care Hospital
+31,1P/25S,32,Musheerabad Police Station
+32,1P/25S,33,Gandhi Hospital
+33,1P/25S,34,Bhoiguda
+34,1P/25S,35,Chilkalguda
+35,1P/25S,36,TSRTC Rathifile Bus Station
+36,1P/25S,37,Secunderabad Railway Station
+37,1P/25S,38,Secunderabad Bus Station
+38,1P/25S,39,Parade Ground Metro Station
+39,1P/25S,40,Patny
+40,1P/25S,41,Jubilee X Road
+41,1P/25S,42,Jubilee Bus Station
+42,1P/25S,43,Vikrampuri
+43,1P/25S,44,Vikarampuri
+44,1P/25S,45,Karkhana
+45,1P/25S,46,Karkhana Circle
+46,1P/25S,47,Tirumalagiri
+47,1P/25S,48,Hanuman Temple
+48,1P/25S,49,Trimulgherry X Road
+49,1P/25S,50,Thirumalagiri
+50,1P/25S,51,Sri Nagar (Lal Bazar)
+51,1P/25S,52,Lal Bazar Bus Stop
+52,1P/25S,53,Mceme
+53,1P/25S,54,Maruti Nagar
+54,1P/25S,55,Lothkunta
+55,1P/25S,56,Ram Nagar – Alwal
+56,1P/25S,57,Alwal
+57,1P/25S,58,Golnaka
+58,1P/25S,59,Alwal Police Station
+59,1P/25S,60,Temple Alwal
+60,1P/25S,61,Old Alwal Z.P.H.S.
+61,1P/25S,62,IG Statue Alwal
+62,1P/25S,63,Father Balaya Nagar
+63,1P/25S,64,P.V. Junction
+64,1P/25S,65,Loyola Academy
+65,1P/25S,66,Suchitra X Road
+
+sno,route_id,stop_id,stop_name
+0,90L/251,1,Shamshabad Bus Station
+1,90L/251,2,Shamshabad Village
+2,90L/251,3,Satamrai
+3,90L/251,4,Gagan Pahad
+4,90L/251,5,Budvel Railway Station
+5,90L/251,6,AG Campus
+6,90L/251,7,Shivarampally Railway Station
+7,90L/251,8,Durga Nagar Babul Reddy Nagar
+8,90L/251,9,Mailardev Pally / Durga Nagar
+9,90L/251,10,Mylardevpally
+10,90L/251,11,Palle Cheruvu / Odamgudda
+11,90L/251,12,Moghal Engineering College
+12,90L/251,13,Bandlaguda
+13,90L/251,14,Bandlaguda
+14,90L/251,15,Kesavagiri
+15,90L/251,16,Chandrayan Gutta
+16,90L/251,17,DLRL
+17,90L/251,18,Baba Nagar
+18,90L/251,19,Chandrayangutta
+19,90L/251,20,Anurag Lab
+20,90L/251,21,DRDL
+21,90L/251,22,Pisalabanda
+22,90L/251,23,Owaisi Hospital
+23,90L/251,24,Champapet X Roads
+24,90L/251,25,Opp Manda Mallamma
+25,90L/251,26,Gayatri Nagar X Road
+26,90L/251,27,TKR Kaman / Shakti Nagar
+27,90L/251,28,Sagar X Road
+28,90L/251,29,L.B. Nagar
+29,90L/251,30,L.B. Nagar Ring Road / Uppal
+30,90L/251,31,Central Bank Colony
+31,90L/251,32,Kamineni
+32,90L/251,33,Rajeev Gandhi Nagar
+33,90L/251,34,Alkapuri / Alkapuri Colony Uppal
+34,90L/251,35,Snehapuri Colony
+35,90L/251,36,Mamatha Nagar Colony
+36,90L/251,37,Ramoji Film City
+37,90L/251,38,Saraswathi Nagar
+38,90L/251,39,Uppal Pushpak
+39,90L/251,40,Uppal X Road L.B. Nagar
+40,90L/251,41,Uppal X Roads
+41,90L/251,42,Survey of India
+42,90L/251,43,National Geophysical Research Institute (NGRI)
+43,90L/251,44,Habsiguda
+44,90L/251,45,Tarnaka
+45,90L/251,46,Tarnaka
+46,90L/251,47,Tarnaka Railway Degree College
+47,90L/251,48,Mettuguda
+48,90L/251,49,Alugadda Bhavi Bus Stop
+49,90L/251,50,Chilkalguda
+50,90L/251,51,TSRTC Rathifile Bus Station
+sno,route_id,stop_id,stop_name
+0,188/251,1,Shamshabad Bus Station
+1,188/251,2,Shamshabad Village
+2,188/251,3,Satamrai
+3,188/251,4,Gagan Pahad
+4,188/251,5,Budvel Railway Station
+5,188/251,6,AG Campus
+6,188/251,7,Aramghar Cross Road
+7,188/251,8,Shivarampally X Road
+8,188/251,9,Weaker Section Colony / Shivarampally Quarters
+9,188/251,10,Lal Dabha
+10,188/251,11,Dairy Farm
+11,188/251,12,Nppti
+12,188/251,13,Rajendranagar HMWW-Kothi
+13,188/251,14,Budvel
+14,188/251,15,Rajendra Nagar Village (Opposite Agriculture University Arch)
+15,188/251,16,Srinivas Colony Budvel
+16,188/251,17,Kismatpur 1
+17,188/251,18,Kismatpur
+18,188/251,19,Kismatpur 2
+19,188/251,20,Sri Sharadadhamam
+20,188/251,21,Vrindavan Colony Bandlaguda
+21,188/251,22,Venkateswara Colony
+22,188/251,23,Bandlaguda X Road
+23,188/251,24,Shanthi Nagar
+24,188/251,25,Rajendra Nagar
+25,188/251,26,Sai Ram Nagar
+26,188/251,27,T K Bridge
+27,188/251,28,Chevella Road
+28,188/251,29,Langer House
+29,188/251,30,Langer Houz
+30,188/251,31,Flour Mill
+31,188/251,32,Nanal Nagar
+32,188/251,33,Rethibowli
+33,188/251,34,Mehdipatnam
+sno,route_id,stop_id,stop_name
+0,49M/251,1,Rajiv Gandhi International Airport (RGIA)
+1,49M/251,2,Shamshabad
+2,49M/251,3,Shamshabad Village
+3,49M/251,4,Satamrai
+4,49M/251,5,Gagan Pahad
+5,49M/251,6,Budvel Railway Station
+6,49M/251,7,AG Campus
+7,49M/251,8,Aramghar Cross Road
+8,49M/251,9,Shivarampally X Road
+9,49M/251,10,Weaker Section Colony / Shivarampally Quarters
+10,49M/251,11,Lal Dabha
+11,49M/251,12,Dairy Farm
+12,49M/251,13,Upperpally X Road
+13,49M/251,14,Hyderguda X Road
+14,49M/251,15,Attapur
+15,49M/251,16,Ring Road
+16,49M/251,17,Jyothi Nagar
+17,49M/251,18,Laxmi Nagar
+18,49M/251,19,Rethibowli
+19,49M/251,20,Mehdipatnam
+20,49M/251,21,SD Hospital
+21,49M/251,22,Masab Tank NMDC
+22,49M/251,23,Masab Tank
+23,49M/251,24,Pension Office
+24,49M/251,25,Care Hospital
+25,49M/251,26,Banjara Hills Road No 7 / Taj Krishna
+26,49M/251,27,Banjara Hills Road No 1 / Water Tank
+27,49M/251,28,NIMS New Gate
+28,49M/251,29,Vengalrao Park Road
+29,49M/251,30,Panjagutta
+30,49M/251,31,Greenlands Bus Stop
+31,49M/251,32,Paryatak Bhawan
+32,49M/251,33,Begumpet Bus Stop
+33,49M/251,34,Opp. Shyamal Building
+34,49M/251,35,Begumpet Shoppers Stop
+35,49M/251,36,Prakash Nagar Metro Station
+36,49M/251,37,Prakash Nagar
+37,49M/251,38,Police Lines
+38,49M/251,39,Begumpet Police Lines
+39,49M/251,40,S.P. Road Anand Theatre
+40,49M/251,41,Paradise / Paradise X Road
+41,49M/251,42,Swimming Pool North Bus Stop
+42,49M/251,43,Saint Annes School
+43,49M/251,44,Sangeeth
+44,49M/251,45,Secunderabad(Towards Uppal)
+45,49M/251,46,TSRTC Rathifile Bus Station
+sno,route_id,stop_id,stop_name
+0,6LG,1,Waverock
+1,6LG,2,Continental Hospital
+2,6LG,3,Infotech
+3,6LG,4,ICICI Junction
+4,6LG,5,Nanakramguda
+5,6LG,6,Infosys
+6,6LG,7,IIT
+7,6LG,8,GPRA Quarters
+8,6LG,9,Indira Nagar
+9,6LG,10,Gachibowli X Road
+10,6LG,11,Telecom Nagar
+11,6LG,12,Cyberabad Police Commissioner Office
+12,6LG,13,Hitech X Road / Roda Mistry College / NCCB
+13,6LG,14,Khajaguda X Road
+14,6LG,15,L.I.D.C.A.P. – Mehdipatnam
+15,6LG,16,Darga-Mehidipatnam
+16,6LG,17,Narayanamma Engineering College
+17,6LG,18,Shaikpet Nala
+18,6LG,19,Brindavan Colony
+19,6LG,20,Tolichowki
+20,6LG,21,Salarjung Colony Bus Stop
+21,6LG,22,Nanal Nagar / Rethibowli
+22,6LG,23,Rethibowli
+23,6LG,24,Mehdipatnam
+24,6LG,25,SD Hospital
+25,6LG,26,Masab Tank NMDC
+26,6LG,27,Masab Tank JNTU
+27,6LG,28,A.C. Guards
+28,6LG,29,Lakdikapul
+29,6LG,30,Lakdikapool Drop
+30,6LG,31,Telephone Bhavan
+31,6LG,32,Secretariat
+32,6LG,33,Liberty – GHMC
+33,6LG,34,Liberty
+34,6LG,35,Himayat Nagar
+35,6LG,36,Narayanaguda
+36,6LG,37,Chikkadpally
+37,6LG,38,Baghlingampally
+38,6LG,39,Barkatpura
+39,6LG,40,Fever Hospital
+40,6LG,41,Shankar Mutt
+41,6LG,42,Vidya Nagar
+42,6LG,43,Adikmet
+43,6LG,44,Ramnagar Gundu
+44,6LG,45,Jamia Osmania
+45,6LG,46,Ladies Hostel
+46,6LG,47,Manikeshvari Nagar
+47,6LG,48,Dairy Farm (O.U. Campus)
+48,6LG,49,Tarnaka X Road
+49,6LG,50,White House
+50,6LG,51,Ram Theatre
+51,6LG,52,Lalapet
+52,6LG,53,R.P.F. Training Centre
+53,6LG,54,Industrial Estate
+54,6LG,55,Z.T.S. X Road
+55,6LG,56,Carbide
+56,6LG,57,HB Play Ground
+57,6LG,58,Mangapuram / N.R.M. Degree College
+58,6LG,59,Indira Nagar
+59,6LG,60,Laxmi Nagar
+60,6LG,61,Moulali Unani Dispensary
+61,6LG,62,S.P. Nagar
+62,6LG,63,Kushaiguda Depot
+63,6LG,64,Kamla Nagar
+64,6LG,65,ECIL X Road Bus Terminal

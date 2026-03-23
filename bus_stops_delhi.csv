@@ -1,0 +1,117 @@
+sno,route_id,stop_id,stop_name
+0,100,1,Kendriya Terminal (Church Road)
+1,100,2,Kendriya Terminal / Gurudwara Rakab Gunj
+2,100,3,Talkatora Road
+3,100,4,RML Hospital
+4,100,5,Gurudwara Bangla Sahib
+5,100,6,YMCA / Palika Kendra
+6,100,7,Palika Kendra
+7,100,8,Shivaji Stadium Terminal
+8,100,9,Shaheed Bhagat Singh Marg
+9,100,10,Gole Market
+10,100,11,Rama Krishna Ashram Marg
+11,100,12,Chitra Gupta Road
+12,100,13,CGHS Dispensary
+13,100,14,Police Station Paharganj
+14,100,15,Jhandewalan
+15,100,16,Karol Bagh Terminal
+16,100,17,Faiz Road
+17,100,18,Guru Govind Singh Crossing (Faiz Road)
+18,100,19,Filmistan
+19,100,20,Bara Hindu Rao
+20,100,21,Azad Market
+21,100,22,Ice Factory (Rani Jhansi Road)
+22,100,23,PS Sabzi Mandi / Ice Factory
+23,100,24,Gali Daak Khana
+24,100,25,Malka Ganj Terminal
+25,100,26,Hansraj College
+26,100,27,Kirodi Mal College
+27,100,28,Ramjas College / Mourice Nagar 2
+28,100,29,Shri Ram College
+29,100,30,Patel Chest
+30,100,31,Khalsa College
+31,100,32,GTB Nagar
+32,100,33,New Police Line
+33,100,34,Alpana Cinema (Model Town Mtr Stn)
+34,100,35,Model Town II
+35,100,36,Model Town III
+36,100,37,Azadpur Metro station
+37,100,38,Azad Pur Terminal
+38,100,39,New Sabzi Mandi
+39,100,40,Adarsh Nagar / Bharola Village
+40,307,1,Trilokpuri 27 Block
+41,307,2,Trilokpuri 26 Block
+42,307,3,Trilokpuri 13 Block
+43,307,4,Kotla Gaon
+44,307,5,I.T.I. Khichripur
+45,307,6,Mayur Vihar Phase 1 Pocket 5
+46,307,7,Shashi Garden Crossing
+47,307,8,Pandav Nagar Police Station
+48,307,9,Patparganj Crossing
+49,307,10,Mother Dairy
+50,307,11,Ganesh Nagar
+51,307,12,S3 Sakar Pur School Block
+52,307,13,S1 Sakar Pur School Block
+53,307,14,Raini Well
+54,307,15,Delhi Sachivalaya
+55,307,16,Dr. B.R. Ambedkar Stadium Terminal
+56,307,17,Delhi Gate
+57,307,18,Lok Nayak Jai Prakash Narayan Hospital
+58,307,19,Zakir Hussain College
+59,307,20,Jawaharlal Nehru Marg
+60,307,21,Police Station Kamla Market
+61,307,22,Kamla Market
+62,857,1,F Block Raghubir Nagar
+63,857,2,Raghubir Nagar Gurudwara
+64,857,3,B-3 Andh Mahavidyalaya
+65,857,4,Raghubir Nagar (Baba Ramdev Mandir)
+66,857,5,D Block Tagore Garden
+67,857,6,Holy Child Senior Secondary School
+68,857,7,Rajouri Garden
+69,857,8,Raja Garden
+70,857,9,Bali Nagar
+71,857,10,Sudershan Park
+72,857,11,Kirti Nagar
+73,857,12,Moti Nagar Market
+74,857,13,Moti Nagar
+75,857,14,Moti Nagar Industrial Area
+76,857,15,Shadipur Depot
+77,857,16,Manjit
+78,857,17,West Patel Nagar
+79,857,18,Patel Nagar Metro Station
+80,857,19,East Patel Nagar
+81,857,20,Rajendra Place
+82,857,21,R.S. Satsang
+83,857,22,Prasad Nagar
+84,857,23,Khalsa College
+85,857,24,Prahlad Market
+86,857,25,D.B. Gupta Market
+87,857,26,Faiz Road
+88,857,27,Karol Bagh Terminal
+89,857,28,Jhande Walan
+90,857,29,P.S. Pahar Ganj
+91,857,30,Paharganj Dispensary
+92,857,31,Kamla Market
+93,857,32,Kamla Market Bara Akhara
+94,857,33,Jawaharlal Nehru Marg
+95,857,34,Zakir Hussain College
+96,857,35,Delhi Gate
+97,857,36,Dr. B.R. Ambedkar Stadium Terminal
+98,857,37,I.G. Stadium
+99,857,38,Delhi Sachivalaya
+100,857,39,Raini Well
+101,857,40,Laxmi Nagar
+102,857,41,Shakar Pur
+103,857,42,Shakar Pur Crossing
+104,857,43,Nirman Vihar
+105,857,44,Swasthya Vihar
+106,857,45,New Rajdhani Enclave
+107,857,46,Karkardooma Crossing
+108,857,47,Hasanpur Depot
+109,857,48,Hasanpur Village
+110,857,49,Gazipur Depot
+111,857,50,Maharajpur Check Post
+112,857,51,Anand Vihar ISBT Terminal
+
+
+ 
