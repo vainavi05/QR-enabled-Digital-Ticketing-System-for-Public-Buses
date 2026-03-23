@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../assests"
+		},
+		{
+			"path": "../lib"
+		},
+		{
+			"path": "../script"
+		},
+		{
+			"path": "../styles"
+		}
+	]
+}
