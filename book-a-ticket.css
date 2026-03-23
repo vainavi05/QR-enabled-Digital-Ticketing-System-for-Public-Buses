@@ -1,0 +1,84 @@
+
+ 
+  h1 {
+    font-size: 32px;
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  
+form {
+    position: relative;
+  
+    border-radius: 8px;
+  
+    padding: 20px;
+    max-width: 400px;
+    width: 100%;
+    margin: auto;
+    margin-top: 100px; /* Adjust the top margin as needed */
+   
+  }
+  
+  label {
+    display: block;
+    font-size: 16px;
+    margin-bottom: 8px;
+  }
+  
+  input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+  }
+  
+  button {
+    border: none;
+    outline: none;
+    background-color: #B1003C;
+    padding: 10px 20px;
+    font-size: 12px;
+    font-weight: 700;
+    color: #fff;
+    border-radius: 5px;
+    transition: all ease 0.1s;
+    box-shadow: 0px 5px 0px 0px #2E8B57;
+  }
+  
+  button:active {
+    transform: translateY(5px);
+    box-shadow: 0px 0px 0px 0px #2E8B57;
+  }
+
+  .bus-tic{
+    font-size: 2em; /* Default font size */
+    position: relative;
+    top: 150px;
+  
+    text-align: center;
+   margin-bottom: 10%;
+  }
+  @media only screen and (max-width: 600px) {
+    /* Adjust styles for screens up to 600px wide */
+  
+    form {
+      margin-top: 200px;
+    }
+  
+    .bus-tic {
+      top: 150px;
+    }
+  }
+  
+  @media only screen and (min-width: 601px) and (max-width: 1024px) {
+    /* Adjust styles for screens between 601px and 1024px wide */
+    form {
+      max-width: 300px;
+    }
+  }
+  
+
+  

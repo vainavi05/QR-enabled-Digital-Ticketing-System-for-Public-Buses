@@ -1,0 +1,205 @@
+form {
+  
+ 
+    border-radius: 50px;
+         width: 80%;
+         max-width: 4000px;
+         display: flex;
+         flex-direction: column;
+         align-items: center;
+         justify-content: center;
+         margin-bottom: 100px;
+}
+
+
+input {
+ width: 50%;
+ padding: 8px;
+ margin-bottom: 16px;
+ box-sizing: border-box;
+}
+
+/* Make origin and destination fields display side by side on larger screens */
+.form-row {
+ display: flex;
+ flex-direction: row;
+ justify-content: space-between;
+ width: 70%;
+ gap: 200px;
+ margin-bottom: 20px;
+}
+
+@media screen and (max-width: 1000px) {
+ form {
+     width: 50%;
+  
+ }
+
+.to{
+ text-align: center;
+ margin-bottom: 20px;
+ font-size: large;
+ font-weight: 500;
+}
+
+ .form-row {
+     width: 100%;
+     justify-content: space-between;
+     justify-self: center;
+     flex-direction: column;
+     gap: 0;
+ }
+
+ input {
+     width: 100%;
+     
+ }
+}
+
+
+
+
+#searchButton {
+ background-color: #B1003C;
+ color: white;
+ padding: 10px;
+ border: none;
+ border-radius: 10px;
+ cursor: pointer;
+ transition: transform 0.3s ease-in-out;
+ background-color: #B1003C;
+ box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+#searchButton:hover {
+ background-color: #45a049;
+ background-color: #2E8B57;
+ transform: scale(1.1);
+ box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+
+
+
+
+#suggestions {
+ list-style: none;
+ padding: 0;
+ margin: 0;
+ position: relative;
+
+ border: 1px solid #ccc;
+ max-height: 150px;
+ overflow-y: auto;
+ z-index: 9999;
+}
+
+#suggestions li {
+ width: 100%;
+ padding: 8px;
+ margin-bottom: 16px;
+ box-sizing: border-box;
+ cursor: pointer;
+}
+
+#suggestions li:hover {
+ background-color: #ddd;
+
+}
+
+/* Default styles for larger screens */
+#routeList {
+ display: flex;
+ text-align: justify;
+
+ flex-direction: column;
+}
+#routeList {
+
+    justify-content:space-around;
+    
+    margin-bottom: 70px;
+    
+  
+  }
+  
+  .route{
+    position: relative;
+    top: -50px;
+    display: flex;
+    justify-content: center; /* Horizontal centering */
+    align-items: center; /* Vertical centering */
+  
+    cursor: pointer;
+  }
+  
+
+ /* Media query for mobile screens */
+@media (max-width: 767px) {
+    .timeline li {
+      flex-direction: column; /* Stack items vertically on mobile */
+    }
+  
+    .timeline--date {
+      flex: 0 0 auto; /* Reset flex property */
+      text-align: left; /* Align text to the left on mobile */
+      margin-right: 0; /* Remove right margin on mobile */
+      margin-bottom: 10px; /* Add bottom margin on mobile */
+    }
+  
+    .timeline--circle {
+      flex: 0 0 auto; /* Reset flex property */
+      margin-bottom: 10px; /* Add bottom margin on mobile */
+    }
+  
+    .timeline--circle:before {
+      display: none; /* Hide the connecting line on mobile */
+    }
+  
+    .timeline--circle i {
+        display: none;
+    }
+  
+    .timeline--description {
+      margin-left: 0; /* Remove left margin on mobile */
+    }
+  
+    /* Styles for the first timeline item on mobile */
+    .timeline li:first-child .timeline--date,
+    .timeline li:first-child .timeline--description {
+      margin-top: 0; /* Remove top margin on mobile */
+    }
+  
+    .timeline li:first-child .timeline--circle:before,
+    .timeline li:first-child .timeline--circle {
+      margin-top: 0; /* Remove top margin on mobile */
+    }
+  
+    .timeline li:first-child .timeline--circle:after,
+    .timeline li:first-child .timeline--circle i {
+      width: 30px; /* Adjust size for the first circle on mobile */
+      height: 30px;
+    }
+  
+    .timeline li:first-child .timeline--circle i:after {
+      width: 10px; /* Adjust size for the inner circle on mobile */
+      height: 10px;
+    }
+  }
+
+
+
+  
+.rounded-button img {
+    margin: 10px;
+    height: 200px;
+    width:200px;
+    border-radius: 50%;
+    border: 8px solid #B1003C;
+  }
+  
+  
+  
+  .rounded-button:hover {
+    transform: scale(1.01);
+  }

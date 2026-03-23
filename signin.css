@@ -1,0 +1,133 @@
+.signin-container {
+
+    position: relative;
+    top: 150px;
+    max-width: 700px;
+    width: 100%;
+    padding: 25px 30px;
+    border-radius: 5px;
+    margin: 0 auto; 
+    margin-bottom: 200px;
+}
+
+.signin-container .signin-title {
+    font-size: 25px;
+    
+    font-weight: 500;
+    position: relative;
+}
+
+.signin-container .signin-title::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    height: 4px;
+    width: 30px;
+    border-radius: 5px;
+    background: #B1003C;
+}
+
+.signin-content form .user-info {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin: 20px 0 12px 0;
+}
+
+.user-info .input-section {
+    margin-bottom: 15px;
+    width: calc(100% / 2 - 20px);
+}
+
+.user-info .input-section span.field-label {
+    display: block;
+    font-weight: 500;
+    margin-bottom: 5px;
+}
+
+.user-info .input-section input {
+    height: 45px;
+    width: 100%;
+    outline: none;
+    font-size: 16px;
+    border-radius: 5px;
+    padding-left: 15px;
+    border: 1px solid #ccc;
+    border-bottom-width: 2px;
+    transition: all 0.3s ease;
+}
+
+.user-info .input-section input:focus,
+.user-info .input-section input:valid {
+    border-color: #2E8B57;
+}
+
+.signin-button {
+    height: 45px;
+    margin: 35px 0;
+}
+
+.signin-button input {
+    height: 100%;
+    width: 100%;
+    border-radius: 5px;
+    border: none;
+    color: #fff;
+    font-size: 18px;
+    font-weight: 500;
+    letter-spacing: 1px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    background: #B1003C;
+}
+
+.signin-button input:hover {
+    background: #2E8B57;
+    transform: scale(1.01);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+@media(max-width: 584px) {
+    .signin-container {
+        max-width: 100%;
+    }
+
+    .user-info .input-section {
+        margin-bottom: 15px;
+        width: 100%;
+    }
+}
+
+@media(max-width: 459px) {
+    .signin-container .signin-content .gender-options {
+        flex-direction: column;
+    }
+}
+
+#loader-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(255, 255, 255, 0.7);
+    display: none;
+    justify-content: center;
+    align-items: center;
+    z-index: 999;
+}
+
+.loader {
+    border: 8px solid #f3f3f3;
+    border-top: 8px solid #3498db;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}

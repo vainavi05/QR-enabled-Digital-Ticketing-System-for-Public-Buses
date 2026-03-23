@@ -1,0 +1,401 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700;800&display=swap');
+
+*{
+  font-family: poppins, monospace;
+}
+
+body{
+    background-color: #F6F1F1;
+}
+
+html, body{
+  overflow-x: hidden;
+}
+*{
+  margin: 0px;
+  padding: 0;
+  box-sizing: border-box;
+  
+  scroll-behavior: smooth;
+}
+
+
+
+
+
+  .card-container-mob{
+    display: none;
+  }
+  .card-container {
+    position: relative;
+    top: 41px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 700px;
+    max-width: 100% !important;
+    padding: 50px 0;
+    
+  }
+  
+  .card-box img {
+    width: 500px;
+    height: auto;
+    filter: drop-shadow(10px 10px 30px #00000049);
+    transition: all 0.75s ease-in-out;
+  }
+  .card-content h2 {
+    font-weight:bolder;
+    color: #FFFF00;
+   
+  }
+  .card-content p {
+    
+    font-weight: 700;
+    color: #ffff ;
+   
+   
+  }
+
+  .card-box {
+    padding: 20px 50px;
+    width: 700px;
+    height: 540px;
+    transition-delay: 1s;
+    transition: all 0.5s ease-in-out;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+  }
+  .card-box::after {
+    content: "";
+    position: absolute;
+    background-color: #f7efe5;
+    height: 350px;
+    width: 350px;
+    z-index: -1;
+    border-radius: 50%;
+    transition: all 0.5s ease-in-out;
+  }
+  .card-content {
+    
+    width: 100%;
+    scale: 1;
+    opacity: 0;
+    transition: all 0.4s ease-in-out;
+  }
+
+  .card-box:hover .card-content {
+    transition: all 1  ease-in-out;
+    min-width: 150px;
+    scale: 1;
+  }
+  .card-box:hover .card-content {
+    transition-delay: 0.5s;
+    opacity: 1;
+  }
+  .card-box:hover {
+    width: 5000px;
+  }
+  .card-box:hover::after {
+    scale: 20;
+    background-color: #EA5455;
+    transition: all 1s ease-in-out;
+  }
+  .card-box:hover img {
+    scale: 1.8;
+  }
+
+
+
+
+  @media screen and (min-width: 250px) and (max-width: 900px) {
+    
+    .card-container{
+      display: none;
+    }
+   .card-container-mob {
+    position: relative;
+    top: 41px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 700px;
+    max-width: 100% !important;
+    padding: 50px 0;
+    
+  }
+  
+  .card-box-mob img {
+    width: 500px;
+    height: auto;
+    filter: drop-shadow(10px 10px 30px #00000049);
+    transition: all 0.75s ease-in-out;
+  }
+  .card-content-mob h2 {
+    font-weight:bolder;
+    color: #FFFF00;
+   
+  }
+  .card-content-mob-mob p {
+    
+    font-weight: 700;
+    color: #ffff ;
+    text-align: justify;
+    word-spacing: 4px;
+
+  }
+
+  .card-box-mob{
+    padding: 20px 50px;
+    width: 700px;
+    height: 540px;
+    transition-delay: 1s;
+    transition: all 0.5s ease-in-out;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+  }
+  .card-box-mob::after {
+    content: "";
+    position: absolute;
+    background-color: #f7efe5;
+    height: 350px;
+    width: 350px;
+    z-index: -1;
+    border-radius: 50%;
+    transition: all 0.5s ease-in-out;
+  }
+  .card-content-mob{
+    
+    width: 100%;
+    scale: 1;
+    opacity: 0;
+    transition: all 0.1s ease-in-out;
+  }
+  
+  
+
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  .service{
+    position: relative;
+    
+    background-color: #B1003C; /* Replace with your desired background color */
+    color: #FFFFFF; /* Replace with your desired text color */
+    
+    font-size: 24px;
+    text-align: center;
+  }
+
+
+
+
+
+
+
+  section {
+    margin-top: 100px;
+   
+ 
+    display: grid;
+    place-items: center;
+    
+   
+  }
+  .row {
+    display: flex;
+    flex-wrap: wrap;
+
+  }
+  .column {
+    width: 100%;
+    padding: 0 5em 5em 5em;
+    text-align: center;
+  }
+  .card {
+    width: 100%;
+    height: 100%;
+    padding: 2em 1.5em;
+    background: linear-gradient(#ffffff 50%, #B1003C 50%);
+    background-size: 100% 200%;
+    background-position: 0 2.5%;
+    border-radius: 5px;
+    box-shadow: 0 0 35px rgba(0, 0, 0, 0.12);
+    cursor: pointer;
+    transition: 0.5s;
+  }
+  h3 {
+    font-size: 20px;
+    font-weight: 600;
+    color: #1f194c;
+    margin: 1em 0;
+  }
+  p {
+    
+   
+    line-height: 1.6;
+    letter-spacing: 0.03em;
+  }
+  .icon-wrapper {
+    background-color: #B1003C;
+    position: relative;
+    margin: auto;
+    font-size: 30px;
+    height: 2.5em;
+    width: 2.5em;
+    color: #ffffff;
+    border-radius: 50%;
+    display: grid;
+    place-items: center;
+    transition: 0.5s;
+  }
+  .card:hover {
+    background-position: 0 100%;
+  }
+  .card:hover .icon-wrapper {
+    background-color: #ffffff;
+    color: #B1003C;
+  }
+  .card:hover h3 {
+    color: #ffffff;
+  }
+  .card:hover p {
+    color: #f0f0f0;
+  }
+ 
+
+
+
+
+  #button {
+    width: 110px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    background-color: #45a049;
+    border-radius: 30px;
+    color: rgb(19, 19, 19);
+    font-weight: 600;
+    border: none;
+    position: relative;
+    cursor: pointer;
+    transition-duration: .2s;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.116);
+    padding-left: 8px;
+    transition-duration: .5s;
+    justify-self: center;
+   
+    margin: 0 auto;
+  }
+  
+  .svgIcon {
+    
+    transition-duration: 1.5s;
+  }
+  
+  .bell path {
+    fill: rgb(19, 19, 19);
+  }
+  
+  #button:hover {
+   
+    transition-duration: .5s;
+  }
+  
+  #button:active {
+    transform: scale(0.97);
+    transition-duration: .2s;
+  }
+  
+  #button:hover .svgIcon {
+    transform: rotate(250deg);
+    transition-duration: 1.5s;
+  }
+  
+  
+
+
+
+  
+    
+
+
+
+  
+.modal.fade.show {
+  display: flex !important;
+  align-items: center;
+  justify-content: center;
+}
+/* Add this CSS to your stylesheet */
+
+/* Increase the width of the modal dialog */
+.modal-dialog {
+  max-width: 1000px;
+   /* Adjust the value based on your preference */
+}
+
+/* Style for the modal content */
+#model {
+  background-color: #fff;
+  overflow-x:hidden;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+/* Style for the modal header */
+.modal-header {
+  background-color: #45a049;
+  color: #fff;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  padding: 15px;
+}
+
+/* Style for the modal body */
+.modal-body {
+  padding: 20px;
+}
+
+/* Style for the modal footer */
+.modal-footer {
+  background-color: #f8f9fa;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  padding: 15px;
+}
+
+/* Style for the close button */
+.btn-secondary {
+  background-color: #45a049;
+  color: #fff;
+  border: 1px solid #45a049;
+}
+
+.btn-secondary:hover {
+  background-color: #45a049;
+  border: 1px solid #45a049;
+}
+
+
